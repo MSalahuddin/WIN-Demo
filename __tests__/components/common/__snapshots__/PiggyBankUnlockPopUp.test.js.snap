@@ -1,0 +1,476 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component PiggyBankUnlockPopUp render PiggyBankUnlockPopUp 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+>
+  <Modal
+    animationType="none"
+    hardwareAccelerated={false}
+    hideModalContentWhileAnimating={false}
+    onModalHide={[Function]}
+    onModalWillHide={[Function]}
+    onModalWillShow={[Function]}
+    onRequestClose={[Function]}
+    scrollHorizontal={false}
+    scrollOffset={0}
+    scrollOffsetMax={0}
+    scrollTo={null}
+    supportedOrientations={
+      Array [
+        "portrait",
+        "landscape",
+      ]
+    }
+    swipeThreshold={100}
+    transparent={true}
+    visible={false}
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      forwardedRef={[Function]}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "black",
+          "bottom": 0,
+          "height": 1334,
+          "left": 0,
+          "opacity": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": 750,
+        }
+      }
+    />
+    <View
+      forwardedRef={[Function]}
+      hideModalContentWhileAnimating={false}
+      onModalHide={[Function]}
+      onModalWillHide={[Function]}
+      onModalWillShow={[Function]}
+      pointerEvents="box-none"
+      scrollHorizontal={false}
+      scrollOffset={0}
+      scrollOffsetMax={0}
+      scrollTo={null}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "rgba(34,34,34, 0.6)",
+          "flex": 1,
+          "justifyContent": "flex-start",
+          "margin": 37.5,
+          "marginBottom": 0,
+          "marginLeft": 0,
+          "marginRight": 0,
+          "marginTop": 0,
+          "transform": Array [
+            Object {
+              "translateY": 0,
+            },
+          ],
+        }
+      }
+      supportedOrientations={
+        Array [
+          "portrait",
+          "landscape",
+        ]
+      }
+      swipeThreshold={100}
+    >
+      <View
+        accessibilityIgnoresInvertColors={true}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "height": 454,
+              "justifyContent": "flex-end",
+              "marginTop": 40,
+              "paddingBottom": 48,
+              "width": 476,
+            },
+          ]
+        }
+      >
+        <Image
+          resizeMode="contain"
+          source={1}
+          style={
+            Array [
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              },
+              Object {
+                "height": undefined,
+                "width": undefined,
+              },
+              undefined,
+            ]
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+            },
+          ]
+        }
+        width={740}
+      >
+        <Image
+          bannerType="NORMAL"
+          resizeMode="contain"
+          source={1}
+          style={
+            Array [
+              Object {
+                "height": 141.56521739130434,
+                "width": 740,
+              },
+            ]
+          }
+          width={740}
+        />
+        <Text
+          alignCenter={false}
+          allowFontScaling={false}
+          bannerType="NORMAL"
+          color="#000000"
+          fontFamily="BOLD"
+          fontSize={22}
+          isUnderlined={false}
+          isUppercase={true}
+          maxFontSizeMultiplier={1.3}
+          size="BANNER_LARGE"
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "CalibreBold",
+                "fontSize": 34.5,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#000000",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "uppercase",
+              },
+              Object {
+                "color": "#FFFFFF",
+                "letterSpacing": 1.5,
+                "position": "absolute",
+              },
+            ]
+          }
+        >
+          Piggy Bank
+        </Text>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderBottomLeftRadius": 16,
+              "borderBottomRightRadius": 16,
+              "justifyContent": "flex-start",
+              "marginTop": -40,
+              "paddingBottom": 100,
+              "paddingTop": 20,
+              "shadowColor": "rgba(53, 53, 53, 0.3)",
+              "shadowOffset": Object {
+                "height": 4,
+                "width": 4,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 2,
+              "width": "80%",
+              "zIndex": -1,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+              },
+            ]
+          }
+        >
+          <Image
+            source={1}
+            style={
+              Array [
+                Object {
+                  "height": 150,
+                  "width": 150,
+                },
+              ]
+            }
+          />
+          <Text
+            alignCenter={true}
+            allowFontScaling={true}
+            color="#353535"
+            fontFamily="REGULAR"
+            isUnderlined={false}
+            isUppercase={false}
+            maxFontSizeMultiplier={1.3}
+            size="XSMALL"
+            style={
+              Array [
+                Object {
+                  "color": "#353535",
+                  "fontFamily": "CalibreRegular",
+                  "fontSize": 24,
+                  "justifyContent": "center",
+                  "textAlign": "center",
+                  "textDecorationColor": "#353535",
+                  "textDecorationLine": "none",
+                  "textDecorationStyle": "solid",
+                  "textTransform": "none",
+                },
+                Object {
+                  "marginHorizontal": 42,
+                },
+              ]
+            }
+          >
+            Unlock your Piggy Bank and receive
+          </Text>
+          <Text
+            alignCenter={true}
+            allowFontScaling={true}
+            color="#353535"
+            fontFamily="REGULAR"
+            isUnderlined={false}
+            isUppercase={false}
+            maxFontSizeMultiplier={1.3}
+            size="XSMALL"
+            style={
+              Array [
+                Object {
+                  "color": "#353535",
+                  "fontFamily": "CalibreRegular",
+                  "fontSize": 24,
+                  "justifyContent": "center",
+                  "textAlign": "center",
+                  "textDecorationColor": "#353535",
+                  "textDecorationLine": "none",
+                  "textDecorationStyle": "solid",
+                  "textTransform": "none",
+                },
+                Object {
+                  "marginHorizontal": 42,
+                },
+              ]
+            }
+          >
+            2% tokens back for every play.
+          </Text>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "marginVertical": 10,
+            },
+          ]
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "rgba(96,202,142,1)",
+              "borderRadius": 88,
+              "height": 176,
+              "justifyContent": "center",
+              "marginTop": -92,
+              "opacity": 1,
+              "width": 542,
+            }
+          }
+          testID="button"
+        >
+          <View
+            borderRadius={44}
+            colorScheme="rgba(128,229,173,1)"
+            height={88}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "rgba(128,229,173,1)",
+                  "borderRadius": 88,
+                  "height": 166,
+                  "justifyContent": "center",
+                  "width": 536,
+                },
+              ]
+            }
+            width={271}
+          >
+            <View
+              borderRadius={44}
+              colorScheme="rgba(114,213,158,1)"
+              height={88}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "rgba(114,213,158,1)",
+                    "borderRadius": 108,
+                    "height": 162,
+                    "justifyContent": "center",
+                    "marginTop": 8,
+                    "width": 536,
+                  },
+                ]
+              }
+              width={271}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                    },
+                  ]
+                }
+              >
+                <Text
+                  alignCenter={false}
+                  allowFontScaling={true}
+                  color="#FFFFFF"
+                  fontFamily="MEDIUM"
+                  isUnderlined={false}
+                  isUppercase={false}
+                  maxFontSizeMultiplier={1.3}
+                  size="XLARGE"
+                  style={
+                    Array [
+                      Object {
+                        "color": "#FFFFFF",
+                        "fontFamily": "Calibre-Medium",
+                        "fontSize": 36,
+                        "justifyContent": "center",
+                        "textAlign": "left",
+                        "textDecorationColor": "#FFFFFF",
+                        "textDecorationLine": "none",
+                        "textDecorationStyle": "solid",
+                        "textTransform": "none",
+                      },
+                      Object {
+                        "marginTop": 14,
+                      },
+                    ]
+                  }
+                >
+                  Got it!
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        hitSlop={
+          Object {
+            "bottom": 10,
+            "left": 10,
+            "right": 10,
+            "top": 10,
+          }
+        }
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID="button"
+      >
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#000000"
+          fontFamily="MEDIUM"
+          isUnderlined={true}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          size="XXSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Calibre-Medium",
+                "fontSize": 21,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#000000",
+                "textDecorationLine": "underline",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "color": "#FFFFFF",
+                "marginTop": 20,
+                "textDecorationColor": "#FFFFFF",
+              },
+            ]
+          }
+        >
+          No Thanks!
+        </Text>
+      </View>
+    </View>
+  </Modal>
+</RCTSafeAreaView>
+`;

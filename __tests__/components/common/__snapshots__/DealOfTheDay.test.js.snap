@@ -1,0 +1,5009 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component PromoCard when user logged in 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+>
+  <Modal
+    hardwareAccelerated={false}
+    visible={true}
+  >
+    <View
+      accessibilityIgnoresInvertColors={true}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "height": "100%",
+            "justifyContent": "center",
+            "width": "100%",
+          },
+        ]
+      }
+    >
+      <Image
+        resizeMode="stretch"
+        source={1}
+        style={
+          Array [
+            Object {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            Object {
+              "height": undefined,
+              "width": undefined,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": -0.5126180657783976,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 514.3887542555773,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 249.39908040931857,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 108.70007155200611,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 52.969164619356704,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 41.326681290748155,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 347.62175434377843,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 650.3662454844358,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 442.1732499784414,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 564.0433720921245,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 478.05306280987713,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 367.212559621446,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": -39.8943831902956,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 225.182760880251,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 555.8620820016255,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        backgroundColor="#E6604E"
+        borderColor="#E6604E"
+        borderWidth={20}
+        style={
+          Array [
+            Object {
+              "borderRadius": 12,
+            },
+          ]
+        }
+      >
+        <View
+          bdWidth={20}
+          isTop={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "height": 20,
+                "justifyContent": "space-around",
+                "paddingHorizontal": 4,
+                "position": "absolute",
+                "top": -20,
+                "width": 555,
+              },
+            ]
+          }
+          width={555}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={20}
+          isBottom={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "bottom": -20,
+                "flexDirection": "row",
+                "height": 20,
+                "justifyContent": "space-around",
+                "paddingHorizontal": 4,
+                "position": "absolute",
+                "width": 555,
+              },
+            ]
+          }
+          width={555}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={20}
+          isLeft={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": "100%",
+                "justifyContent": "space-around",
+                "left": -20,
+                "paddingVertical": 4,
+                "position": "absolute",
+                "width": 20,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={20}
+          isRight={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": "100%",
+                "justifyContent": "space-around",
+                "paddingVertical": 4,
+                "position": "absolute",
+                "right": -20,
+                "width": 20,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          left={-18}
+          size={20}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 40,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 40,
+              },
+            ]
+          }
+          top={-18}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          right={-18}
+          size={20}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 40,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 40,
+              },
+            ]
+          }
+          top={-18}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bottom={-18}
+          left={-18}
+          size={20}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 40,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 40,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bottom={-18}
+          right={-18}
+          size={20}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 40,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 40,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bgColor="#5F6EAF"
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#5F6EAF",
+                "paddingHorizontal": 20,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "marginVertical": 40,
+                },
+              ]
+            }
+          >
+            <Image
+              source={1}
+              style={
+                Array [
+                  Object {
+                    "height": 340,
+                    "width": 440,
+                  },
+                ]
+              }
+            />
+          </View>
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "paddingVertical": 20,
+                },
+              ]
+            }
+          >
+            <Text
+              alignCenter={true}
+              allowFontScaling={true}
+              color="#FFFFFF"
+              fontFamily="MEDIUM"
+              isUnderlined={false}
+              isUppercase={false}
+              maxFontSizeMultiplier={1.3}
+              size="LARGE"
+              style={
+                Array [
+                  Object {
+                    "color": "#FFFFFF",
+                    "fontFamily": "Calibre-Medium",
+                    "fontSize": 31.5,
+                    "justifyContent": "center",
+                    "textAlign": "center",
+                    "textDecorationColor": "#FFFFFF",
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textTransform": "none",
+                  },
+                ]
+              }
+            >
+              Get 785 tokens right
+            </Text>
+            <Text
+              alignCenter={true}
+              allowFontScaling={true}
+              color="#FFFFFF"
+              fontFamily="MEDIUM"
+              isUnderlined={false}
+              isUppercase={false}
+              maxFontSizeMultiplier={1.3}
+              size="LARGE"
+              style={
+                Array [
+                  Object {
+                    "color": "#FFFFFF",
+                    "fontFamily": "Calibre-Medium",
+                    "fontSize": 31.5,
+                    "justifyContent": "center",
+                    "textAlign": "center",
+                    "textDecorationColor": "#FFFFFF",
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textTransform": "none",
+                  },
+                ]
+              }
+            >
+              now for only Rs 820.00
+            </Text>
+            <Text
+              alignCenter={true}
+              allowFontScaling={true}
+              color="#FFFFFF"
+              fontFamily="MEDIUM"
+              isUnderlined={false}
+              isUppercase={false}
+              maxFontSizeMultiplier={1.3}
+              size="LARGE"
+              style={
+                Array [
+                  Object {
+                    "color": "#FFFFFF",
+                    "fontFamily": "Calibre-Medium",
+                    "fontSize": 31.5,
+                    "justifyContent": "center",
+                    "textAlign": "center",
+                    "textDecorationColor": "#FFFFFF",
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textTransform": "none",
+                  },
+                ]
+              }
+            >
+              That's an extra 300
+            </Text>
+            <Text
+              alignCenter={true}
+              allowFontScaling={true}
+              color="#FFFFFF"
+              fontFamily="MEDIUM"
+              isUnderlined={false}
+              isUppercase={false}
+              maxFontSizeMultiplier={1.3}
+              size="LARGE"
+              style={
+                Array [
+                  Object {
+                    "color": "#FFFFFF",
+                    "fontFamily": "Calibre-Medium",
+                    "fontSize": 31.5,
+                    "justifyContent": "center",
+                    "textAlign": "center",
+                    "textDecorationColor": "#FFFFFF",
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textTransform": "none",
+                  },
+                ]
+              }
+            >
+              free tokens!
+            </Text>
+          </View>
+          <View
+            onLayout={[Function]}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "marginHorizontal": 10,
+                  "marginVertical": 10,
+                },
+              ]
+            }
+          >
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "rgba(96,202,142,1)",
+                  "borderRadius": 88,
+                  "height": 170,
+                  "justifyContent": "center",
+                  "marginVertical": 40,
+                  "opacity": 1,
+                  "width": 402,
+                }
+              }
+              testID="popup-button"
+            >
+              <View
+                borderRadius={44}
+                colorScheme="rgba(128,229,173,1)"
+                height={85}
+                style={
+                  Array [
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "rgba(128,229,173,1)",
+                      "borderRadius": 88,
+                      "height": 160,
+                      "justifyContent": "center",
+                      "width": 396,
+                    },
+                  ]
+                }
+                width={201}
+              >
+                <View
+                  borderRadius={44}
+                  colorScheme="rgba(114,213,158,1)"
+                  height={85}
+                  style={
+                    Array [
+                      Object {
+                        "alignItems": "center",
+                        "backgroundColor": "rgba(114,213,158,1)",
+                        "borderRadius": 108,
+                        "height": 156,
+                        "justifyContent": "center",
+                        "marginTop": 8,
+                        "width": 396,
+                      },
+                    ]
+                  }
+                  width={201}
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "alignItems": "center",
+                          "flexDirection": "row",
+                          "justifyContent": "center",
+                        },
+                      ]
+                    }
+                  >
+                    <Text
+                      alignCenter={false}
+                      allowFontScaling={true}
+                      color="#FFFFFF"
+                      fontFamily="MEDIUM"
+                      isUnderlined={false}
+                      isUppercase={false}
+                      maxFontSizeMultiplier={1.3}
+                      size="XLARGE"
+                      style={
+                        Array [
+                          Object {
+                            "color": "#FFFFFF",
+                            "fontFamily": "Calibre-Medium",
+                            "fontSize": 36,
+                            "justifyContent": "center",
+                            "textAlign": "left",
+                            "textDecorationColor": "#FFFFFF",
+                            "textDecorationLine": "none",
+                            "textDecorationStyle": "solid",
+                            "textTransform": "none",
+                          },
+                          Object {
+                            "marginTop": 14,
+                          },
+                        ]
+                      }
+                    >
+                      Buy Rs 820.00
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "marginTop": 122,
+            },
+          ]
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          hitSlop={
+            Object {
+              "bottom": 10,
+              "left": 10,
+              "right": 10,
+              "top": 10,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+          testID="button"
+        >
+          <Text
+            alignCenter={false}
+            allowFontScaling={true}
+            color="#000000"
+            fontFamily="MEDIUM"
+            isUnderlined={false}
+            isUppercase={false}
+            maxFontSizeMultiplier={1.3}
+            size="XXSMALL"
+            style={
+              Array [
+                Object {
+                  "color": "#000000",
+                  "fontFamily": "Calibre-Medium",
+                  "fontSize": 21,
+                  "justifyContent": "center",
+                  "textAlign": "left",
+                  "textDecorationColor": "#000000",
+                  "textDecorationLine": "none",
+                  "textDecorationStyle": "solid",
+                  "textTransform": "none",
+                },
+                Object {
+                  "color": "#FFFFFF",
+                  "textDecorationColor": "#FFFFFF",
+                },
+              ]
+            }
+            testID="text-button"
+          >
+            No thanks!
+          </Text>
+        </View>
+      </View>
+    </View>
+  </Modal>
+</RCTSafeAreaView>
+`;
+
+exports[`Component PromoCard when user logged out 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+>
+  <Modal
+    hardwareAccelerated={false}
+    visible={true}
+  >
+    <View
+      accessibilityIgnoresInvertColors={true}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "height": "100%",
+            "justifyContent": "center",
+            "width": "100%",
+          },
+        ]
+      }
+    >
+      <Image
+        resizeMode="stretch"
+        source={1}
+        style={
+          Array [
+            Object {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            Object {
+              "height": undefined,
+              "width": undefined,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 40.74088169292574,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 376.1078560428141,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 522.7922523448707,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 337.903779012916,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 565.8397694766336,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 565.7887978494241,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 564.769580259253,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 52.72886387181869,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 417.50728753957435,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 475.5957300985392,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 445.493303748063,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 177.19022793946866,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 146.25837731403035,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": 224.14035274212733,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        forwardedRef={[Function]}
+        style={
+          Object {
+            "left": -34.79372781082974,
+            "paddingHorizontal": 50,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateY": -76,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          forwardedRef={[Function]}
+          style={
+            Object {
+              "transform": Array [
+                Object {
+                  "translateX": -9.8,
+                },
+                Object {
+                  "translateY": -7.840000000000001,
+                },
+                Object {
+                  "rotate": "7deg",
+                },
+              ],
+            }
+          }
+        >
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "transform": Array [
+                  Object {
+                    "rotateX": "180deg",
+                  },
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+          <Image
+            forwardedRef={[Function]}
+            source={1}
+            style={
+              Object {
+                "backfaceVisibility": "hidden",
+                "height": 30,
+                "position": "absolute",
+                "transform": Array [
+                  Object {
+                    "rotateX": "0deg",
+                  },
+                  Object {
+                    "rotate": "0deg",
+                  },
+                ],
+                "width": 30,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        backgroundColor="#E6604E"
+        borderColor="#E6604E"
+        borderWidth={20}
+        style={
+          Array [
+            Object {
+              "borderRadius": 12,
+            },
+          ]
+        }
+      >
+        <View
+          bdWidth={20}
+          isTop={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "height": 20,
+                "justifyContent": "space-around",
+                "paddingHorizontal": 4,
+                "position": "absolute",
+                "top": -20,
+                "width": 555,
+              },
+            ]
+          }
+          width={555}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={20}
+          isBottom={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "bottom": -20,
+                "flexDirection": "row",
+                "height": 20,
+                "justifyContent": "space-around",
+                "paddingHorizontal": 4,
+                "position": "absolute",
+                "width": 555,
+              },
+            ]
+          }
+          width={555}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={20}
+          isLeft={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": "100%",
+                "justifyContent": "space-around",
+                "left": -20,
+                "paddingVertical": 4,
+                "position": "absolute",
+                "width": 20,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={20}
+          isRight={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": "100%",
+                "justifyContent": "space-around",
+                "paddingVertical": 4,
+                "position": "absolute",
+                "right": -20,
+                "width": 20,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          left={-18}
+          size={20}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 40,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 40,
+              },
+            ]
+          }
+          top={-18}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          right={-18}
+          size={20}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 40,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 40,
+              },
+            ]
+          }
+          top={-18}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bottom={-18}
+          left={-18}
+          size={20}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 40,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 40,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bottom={-18}
+          right={-18}
+          size={20}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 40,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 40,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bgColor="#5F6EAF"
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#5F6EAF",
+                "paddingHorizontal": 20,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "marginVertical": 40,
+                },
+              ]
+            }
+          >
+            <Image
+              source={1}
+              style={
+                Array [
+                  Object {
+                    "height": 340,
+                    "width": 440,
+                  },
+                ]
+              }
+            />
+          </View>
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "paddingVertical": 20,
+                },
+              ]
+            }
+          >
+            <Text
+              alignCenter={true}
+              allowFontScaling={true}
+              color="#FFFFFF"
+              fontFamily="MEDIUM"
+              isUnderlined={false}
+              isUppercase={false}
+              maxFontSizeMultiplier={1.3}
+              size="LARGE"
+              style={
+                Array [
+                  Object {
+                    "color": "#FFFFFF",
+                    "fontFamily": "Calibre-Medium",
+                    "fontSize": 31.5,
+                    "justifyContent": "center",
+                    "textAlign": "center",
+                    "textDecorationColor": "#FFFFFF",
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textTransform": "none",
+                  },
+                ]
+              }
+            >
+              Get 785 tokens right
+            </Text>
+            <Text
+              alignCenter={true}
+              allowFontScaling={true}
+              color="#FFFFFF"
+              fontFamily="MEDIUM"
+              isUnderlined={false}
+              isUppercase={false}
+              maxFontSizeMultiplier={1.3}
+              size="LARGE"
+              style={
+                Array [
+                  Object {
+                    "color": "#FFFFFF",
+                    "fontFamily": "Calibre-Medium",
+                    "fontSize": 31.5,
+                    "justifyContent": "center",
+                    "textAlign": "center",
+                    "textDecorationColor": "#FFFFFF",
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textTransform": "none",
+                  },
+                ]
+              }
+            >
+              now for only Rs 820.00
+            </Text>
+            <Text
+              alignCenter={true}
+              allowFontScaling={true}
+              color="#FFFFFF"
+              fontFamily="MEDIUM"
+              isUnderlined={false}
+              isUppercase={false}
+              maxFontSizeMultiplier={1.3}
+              size="LARGE"
+              style={
+                Array [
+                  Object {
+                    "color": "#FFFFFF",
+                    "fontFamily": "Calibre-Medium",
+                    "fontSize": 31.5,
+                    "justifyContent": "center",
+                    "textAlign": "center",
+                    "textDecorationColor": "#FFFFFF",
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textTransform": "none",
+                  },
+                ]
+              }
+            >
+              That's an extra 300
+            </Text>
+            <Text
+              alignCenter={true}
+              allowFontScaling={true}
+              color="#FFFFFF"
+              fontFamily="MEDIUM"
+              isUnderlined={false}
+              isUppercase={false}
+              maxFontSizeMultiplier={1.3}
+              size="LARGE"
+              style={
+                Array [
+                  Object {
+                    "color": "#FFFFFF",
+                    "fontFamily": "Calibre-Medium",
+                    "fontSize": 31.5,
+                    "justifyContent": "center",
+                    "textAlign": "center",
+                    "textDecorationColor": "#FFFFFF",
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textTransform": "none",
+                  },
+                ]
+              }
+            >
+              free tokens!
+            </Text>
+          </View>
+          <View
+            onLayout={[Function]}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "marginHorizontal": 10,
+                  "marginVertical": 10,
+                },
+              ]
+            }
+          >
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "rgba(96,202,142,1)",
+                  "borderRadius": 88,
+                  "height": 170,
+                  "justifyContent": "center",
+                  "marginVertical": 40,
+                  "opacity": 1,
+                  "width": 402,
+                }
+              }
+              testID="popup-button"
+            >
+              <View
+                borderRadius={44}
+                colorScheme="rgba(128,229,173,1)"
+                height={85}
+                style={
+                  Array [
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "rgba(128,229,173,1)",
+                      "borderRadius": 88,
+                      "height": 160,
+                      "justifyContent": "center",
+                      "width": 396,
+                    },
+                  ]
+                }
+                width={201}
+              >
+                <View
+                  borderRadius={44}
+                  colorScheme="rgba(114,213,158,1)"
+                  height={85}
+                  style={
+                    Array [
+                      Object {
+                        "alignItems": "center",
+                        "backgroundColor": "rgba(114,213,158,1)",
+                        "borderRadius": 108,
+                        "height": 156,
+                        "justifyContent": "center",
+                        "marginTop": 8,
+                        "width": 396,
+                      },
+                    ]
+                  }
+                  width={201}
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "alignItems": "center",
+                          "flexDirection": "row",
+                          "justifyContent": "center",
+                        },
+                      ]
+                    }
+                  >
+                    <Text
+                      alignCenter={false}
+                      allowFontScaling={true}
+                      color="#FFFFFF"
+                      fontFamily="MEDIUM"
+                      isUnderlined={false}
+                      isUppercase={false}
+                      maxFontSizeMultiplier={1.3}
+                      size="XLARGE"
+                      style={
+                        Array [
+                          Object {
+                            "color": "#FFFFFF",
+                            "fontFamily": "Calibre-Medium",
+                            "fontSize": 36,
+                            "justifyContent": "center",
+                            "textAlign": "left",
+                            "textDecorationColor": "#FFFFFF",
+                            "textDecorationLine": "none",
+                            "textDecorationStyle": "solid",
+                            "textTransform": "none",
+                          },
+                          Object {
+                            "marginTop": 14,
+                          },
+                        ]
+                      }
+                    >
+                      Buy Rs 820.00
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "marginTop": 122,
+            },
+          ]
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          hitSlop={
+            Object {
+              "bottom": 10,
+              "left": 10,
+              "right": 10,
+              "top": 10,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+          testID="button"
+        >
+          <Text
+            alignCenter={false}
+            allowFontScaling={true}
+            color="#000000"
+            fontFamily="MEDIUM"
+            isUnderlined={false}
+            isUppercase={false}
+            maxFontSizeMultiplier={1.3}
+            size="XXSMALL"
+            style={
+              Array [
+                Object {
+                  "color": "#000000",
+                  "fontFamily": "Calibre-Medium",
+                  "fontSize": 21,
+                  "justifyContent": "center",
+                  "textAlign": "left",
+                  "textDecorationColor": "#000000",
+                  "textDecorationLine": "none",
+                  "textDecorationStyle": "solid",
+                  "textTransform": "none",
+                },
+                Object {
+                  "color": "#FFFFFF",
+                  "textDecorationColor": "#FFFFFF",
+                },
+              ]
+            }
+            testID="text-button"
+          >
+            No thanks!
+          </Text>
+        </View>
+      </View>
+    </View>
+  </Modal>
+</RCTSafeAreaView>
+`;

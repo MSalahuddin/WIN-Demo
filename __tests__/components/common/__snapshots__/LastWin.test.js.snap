@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component LastWin renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <Image
+    source={1}
+    style={
+      Array [
+        Object {
+          "height": 48,
+          "marginRight": 12,
+          "width": 48,
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "marginTop": 20,
+        },
+      ]
+    }
+  >
+    <Text
+      alignCenter={false}
+      allowFontScaling={true}
+      color="#000000"
+      fontFamily="MEDIUM"
+      isUnderlined={false}
+      isUppercase={false}
+      maxFontSizeMultiplier={1.3}
+      size="XSMALL"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "Calibre-Medium",
+            "fontSize": 24,
+            "justifyContent": "center",
+            "textAlign": "left",
+            "textDecorationColor": "#000000",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "none",
+          },
+        ]
+      }
+    >
+      Last win: 
+    </Text>
+    <Text
+      alignCenter={false}
+      allowFontScaling={true}
+      color="#000000"
+      fontFamily="REGULAR"
+      isUnderlined={false}
+      isUppercase={false}
+      maxFontSizeMultiplier={1.3}
+      size="XSMALL"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "CalibreRegular",
+            "fontSize": 24,
+            "justifyContent": "center",
+            "textAlign": "left",
+            "textDecorationColor": "#000000",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "none",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+</View>
+`;

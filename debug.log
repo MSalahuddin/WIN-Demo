@@ -1,0 +1,44 @@
+[0707/231022.839:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.792:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.791:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.835:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.813:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0707/231022.791:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.811:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.869:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.888:ERROR:exception_snapshot_win.cc(98)] thread ID 8552 not found in process
+[0707/231022.888:ERROR:exception_snapshot_win.cc(98)] thread ID 1104 not found in process
+[0707/231022.888:ERROR:exception_snapshot_win.cc(98)] thread ID 796 not found in process
+[0707/231022.888:ERROR:exception_snapshot_win.cc(98)] thread ID 13104 not found in process
+[0707/231022.888:ERROR:exception_snapshot_win.cc(98)] thread ID 12864 not found in process
+[0707/231022.888:ERROR:exception_snapshot_win.cc(98)] thread ID 9160 not found in process
+[0707/231022.889:ERROR:exception_snapshot_win.cc(98)] thread ID 11752 not found in process
+[0707/231022.888:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0707/231022.889:ERROR:process_info.cc(551)] ReadProcessData failed
+[0707/231022.914:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.914:ERROR:exception_snapshot_win.cc(98)] thread ID 15876 not found in process
+[0707/231022.935:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.935:ERROR:exception_snapshot_win.cc(98)] thread ID 18572 not found in process
+[0707/231022.939:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.940:ERROR:exception_snapshot_win.cc(98)] thread ID 19368 not found in process
+[0707/231022.942:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.942:ERROR:exception_snapshot_win.cc(98)] thread ID 13884 not found in process
+[0707/231022.958:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.958:ERROR:exception_snapshot_win.cc(98)] thread ID 11652 not found in process
+[0707/231022.969:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.969:ERROR:exception_snapshot_win.cc(98)] thread ID 1572 not found in process
+[0707/231022.970:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.970:ERROR:exception_snapshot_win.cc(98)] thread ID 18296 not found in process
+[0707/231022.972:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.972:ERROR:exception_snapshot_win.cc(98)] thread ID 8284 not found in process
+[0707/231022.985:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.985:ERROR:exception_snapshot_win.cc(98)] thread ID 18840 not found in process
+[0707/231022.986:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.986:ERROR:exception_snapshot_win.cc(98)] thread ID 3648 not found in process
+[0707/231022.997:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.997:ERROR:exception_snapshot_win.cc(98)] thread ID 11564 not found in process
+[0707/231022.999:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0707/231022.999:ERROR:exception_snapshot_win.cc(98)] thread ID 10952 not found in process
+[1016/130208.410:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1016/152914.360:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0106/125738.587:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

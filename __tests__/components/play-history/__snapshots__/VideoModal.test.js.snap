@@ -1,0 +1,172 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component VideoModal  renders the video popup correctly 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+>
+  <Modal
+    animationType="none"
+    hardwareAccelerated={false}
+    hideModalContentWhileAnimating={false}
+    onModalHide={[Function]}
+    onModalWillHide={[Function]}
+    onModalWillShow={[Function]}
+    onRequestClose={[Function]}
+    scrollHorizontal={false}
+    scrollOffset={0}
+    scrollOffsetMax={0}
+    scrollTo={null}
+    supportedOrientations={
+      Array [
+        "portrait",
+        "landscape",
+      ]
+    }
+    swipeThreshold={100}
+    transparent={true}
+    visible={true}
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      forwardedRef={[Function]}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "black",
+          "bottom": 0,
+          "height": 1334,
+          "left": 0,
+          "opacity": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": 750,
+        }
+      }
+    />
+    <View
+      forwardedRef={[Function]}
+      hideModalContentWhileAnimating={false}
+      onModalHide={[Function]}
+      onModalWillHide={[Function]}
+      onModalWillShow={[Function]}
+      pointerEvents="box-none"
+      scrollHorizontal={false}
+      scrollOffset={0}
+      scrollOffsetMax={0}
+      scrollTo={null}
+      style={
+        Object {
+          "backgroundColor": "#000000",
+          "flex": 1,
+          "justifyContent": "flex-start",
+          "margin": 37.5,
+          "marginBottom": 0,
+          "marginLeft": 0,
+          "marginRight": 0,
+          "marginTop": 0,
+          "transform": Array [
+            Object {
+              "translateY": 1334,
+            },
+          ],
+        }
+      }
+      supportedOrientations={
+        Array [
+          "portrait",
+          "landscape",
+        ]
+      }
+      swipeThreshold={100}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "flex-end",
+              "paddingHorizontal": 36,
+              "position": "absolute",
+              "width": "100%",
+              "zIndex": 1,
+            },
+          ]
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          hitSlop={
+            Object {
+              "bottom": 12,
+              "left": 12,
+              "right": 12,
+              "top": 12,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "marginLeft": 24,
+              "marginTop": 48,
+              "opacity": 1,
+            }
+          }
+          testID="cancel-button"
+        >
+          <Image
+            opacity={1}
+            resizeMode="contain"
+            size={32}
+            source={1}
+            style={
+              Array [
+                Object {
+                  "height": 48,
+                  "width": 48,
+                },
+              ]
+            }
+          />
+        </View>
+      </View>
+      <Video
+        controls={true}
+        fullscreen={true}
+        onError={[MockFunction]}
+        onLoad={[Function]}
+        resizeMode="cover"
+        source={
+          Object {
+            "uri": "",
+          }
+        }
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#000000",
+              "height": "50%",
+              "top": "25%",
+              "width": "100%",
+            },
+          ]
+        }
+      />
+    </View>
+  </Modal>
+</RCTSafeAreaView>
+`;

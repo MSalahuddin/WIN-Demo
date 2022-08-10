@@ -1,0 +1,163 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Button renders disabled button correctly 1`] = `
+<View
+  onLayout={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+      },
+    ]
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "rgba(116, 158, 253, 1)",
+        "borderRadius": 80,
+        "height": 110,
+        "justifyContent": "center",
+        "opacity": 1,
+        "width": 320,
+      }
+    }
+    testID="button"
+  >
+    <View
+      borderRadius={40}
+      colorScheme="rgba(165, 193, 255, 1)"
+      height={55}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "rgba(165, 193, 255, 1)",
+            "borderRadius": 80,
+            "height": 100,
+            "justifyContent": "center",
+            "width": 314,
+          },
+        ]
+      }
+      width={160}
+    >
+      <View
+        borderRadius={40}
+        colorScheme="rgba(127, 166, 253, 1)"
+        height={55}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "rgba(127, 166, 253, 1)",
+              "borderRadius": 100,
+              "height": 96,
+              "justifyContent": "center",
+              "marginTop": 8,
+              "width": 314,
+            },
+          ]
+        }
+        width={160}
+      >
+        1
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Component Button renders regular button correctly 1`] = `
+<View
+  onLayout={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+      },
+    ]
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "rgba(116, 158, 253, 1)",
+        "borderRadius": 80,
+        "height": 110,
+        "justifyContent": "center",
+        "opacity": 1,
+        "width": 320,
+      }
+    }
+    testID="button"
+  >
+    <View
+      borderRadius={40}
+      colorScheme="rgba(165, 193, 255, 1)"
+      height={55}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "rgba(165, 193, 255, 1)",
+            "borderRadius": 80,
+            "height": 100,
+            "justifyContent": "center",
+            "width": 314,
+          },
+        ]
+      }
+      width={160}
+    >
+      <View
+        borderRadius={40}
+        colorScheme="rgba(127, 166, 253, 1)"
+        height={55}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "rgba(127, 166, 253, 1)",
+              "borderRadius": 100,
+              "height": 96,
+              "justifyContent": "center",
+              "marginTop": 8,
+              "width": 314,
+            },
+          ]
+        }
+        width={160}
+      >
+        1
+      </View>
+    </View>
+  </View>
+</View>
+`;

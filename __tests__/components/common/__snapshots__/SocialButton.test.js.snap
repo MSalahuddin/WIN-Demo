@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component SocialButton renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#000000",
+      "borderRadius": 36,
+      "flexDirection": "row",
+      "height": 66,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 450,
+    }
+  }
+  testID="button"
+>
+  <Image
+    resizeMode="contain"
+    source={1}
+    style={
+      Array [
+        Object {
+          "height": 28.5,
+          "width": 28.5,
+        },
+      ]
+    }
+  />
+  <Text
+    alignCenter={false}
+    allowFontScaling={true}
+    color="#000000"
+    fontFamily="ROBOTO MEDIUM"
+    isUnderlined={false}
+    isUppercase={false}
+    maxFontSizeMultiplier={1.3}
+    size="NORMAL"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Roboto-Medium",
+          "fontSize": 30,
+          "justifyContent": "center",
+          "textAlign": "left",
+          "textDecorationColor": "#000000",
+          "textDecorationLine": "none",
+          "textDecorationStyle": "solid",
+          "textTransform": "none",
+        },
+        Object {
+          "lineHeight": 36,
+          "marginLeft": 12,
+        },
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;

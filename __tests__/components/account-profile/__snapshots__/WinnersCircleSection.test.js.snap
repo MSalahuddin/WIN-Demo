@@ -1,0 +1,370 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component WinnersCircleSection renders WinnersCircleSection correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexBasis": 0,
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "space-around",
+        "marginTop": 40,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        },
+      ]
+    }
+    width={727.5}
+  >
+    <Image
+      bannerType="BOW_TIE"
+      resizeMode="contain"
+      source={1}
+      style={
+        Array [
+          Object {
+            "height": 268.85869565217394,
+            "width": 727.5,
+          },
+        ]
+      }
+      width={727.5}
+    />
+    <Text
+      alignCenter={false}
+      allowFontScaling={false}
+      bannerType="BOW_TIE"
+      color="#000000"
+      fontFamily="BOLD"
+      fontSize={22}
+      isUnderlined={false}
+      isUppercase={true}
+      maxFontSizeMultiplier={1.3}
+      size="BANNER_LARGE"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "CalibreBold",
+            "fontSize": 34.5,
+            "justifyContent": "center",
+            "textAlign": "left",
+            "textDecorationColor": "#000000",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "uppercase",
+          },
+          Object {
+            "color": "#FFFFFF",
+            "letterSpacing": 1.5,
+            "paddingTop": 40,
+            "position": "absolute",
+          },
+        ]
+      }
+    >
+      Winner's Circle
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "space-between",
+          "marginVertical": 48,
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 12,
+          "flexDirection": "column",
+          "marginHorizontal": 7.5,
+          "marginTop": 18,
+          "opacity": 1,
+          "overflow": "hidden",
+          "shadowColor": "rgba(53, 53, 53, 0.3)",
+          "shadowOffset": Object {
+            "height": 4,
+            "width": 4,
+          },
+          "shadowOpacity": 1,
+          "shadowRadius": 2,
+          "width": 339,
+        }
+      }
+      testID="prize-card-button"
+    >
+      <Image
+        resizeMode="cover"
+        source={
+          Object {
+            "uri": "a",
+          }
+        }
+        style={
+          Array [
+            Object {
+              "height": 339,
+              "overflow": "hidden",
+              "width": 339,
+            },
+          ]
+        }
+      />
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "justifyContent": "center",
+              "paddingHorizontal": 30,
+              "paddingVertical": 20,
+            },
+          ]
+        }
+      >
+        <Text
+          alignCenter={true}
+          allowFontScaling={true}
+          color="#000000"
+          ellipsizeMode="tail"
+          fontFamily="MEDIUM"
+          isUnderlined={false}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          size="XXSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Calibre-Medium",
+                "fontSize": 21,
+                "justifyContent": "center",
+                "textAlign": "center",
+                "textDecorationColor": "#000000",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+            ]
+          }
+        >
+          a
+        </Text>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#F9F9F9",
+              "flexBasis": 0,
+              "flexDirection": "row",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "justifyContent": "center",
+              "paddingHorizontal": 30,
+              "paddingVertical": 20,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "flexBasis": 0,
+                "flexDirection": "row",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+              },
+            ]
+          }
+        >
+          <Image
+            source={1}
+            style={
+              Array [
+                Object {
+                  "height": 28,
+                  "marginRight": 7.5,
+                  "width": 27,
+                },
+              ]
+            }
+          />
+          <Text
+            alignCenter={false}
+            allowFontScaling={true}
+            color="#000000"
+            ellipsizeMode="tail"
+            fontFamily="MEDIUM"
+            isUnderlined={false}
+            isUppercase={false}
+            maxFontSizeMultiplier={1.3}
+            size="XXSMALL"
+            style={
+              Array [
+                Object {
+                  "color": "#000000",
+                  "fontFamily": "Calibre-Medium",
+                  "fontSize": 21,
+                  "justifyContent": "center",
+                  "textAlign": "left",
+                  "textDecorationColor": "#000000",
+                  "textDecorationLine": "none",
+                  "textDecorationStyle": "solid",
+                  "textTransform": "none",
+                },
+                Object {
+                  "paddingTop": 8,
+                },
+              ]
+            }
+          >
+            x100
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "marginVertical": 10,
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#E5E5E5",
+          "borderRadius": 80,
+          "height": 110,
+          "justifyContent": "center",
+          "marginTop": 40,
+          "opacity": 1,
+          "width": 320,
+        }
+      }
+      testID="section-button"
+    >
+      <View
+        borderRadius={40}
+        colorScheme="#FFFFFF"
+        height={55}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 80,
+              "height": 100,
+              "justifyContent": "center",
+              "width": 314,
+            },
+          ]
+        }
+        width={160}
+      >
+        <View
+          borderRadius={40}
+          colorScheme="#F9F9F9"
+          height={55}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#F9F9F9",
+                "borderRadius": 100,
+                "height": 96,
+                "justifyContent": "center",
+                "marginTop": 8,
+                "width": 314,
+              },
+            ]
+          }
+          width={160}
+        >
+          <Text
+            alignCenter={false}
+            allowFontScaling={true}
+            color="#000000"
+            fontFamily="MEDIUM"
+            isUnderlined={false}
+            isUppercase={false}
+            maxFontSizeMultiplier={1.3}
+            size="XSMALL"
+            style={
+              Array [
+                Object {
+                  "color": "#000000",
+                  "fontFamily": "Calibre-Medium",
+                  "fontSize": 24,
+                  "justifyContent": "center",
+                  "textAlign": "left",
+                  "textDecorationColor": "#000000",
+                  "textDecorationLine": "none",
+                  "textDecorationStyle": "solid",
+                  "textTransform": "none",
+                },
+              ]
+            }
+          >
+            View all
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

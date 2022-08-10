@@ -1,0 +1,781 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component PlayHistoryCard renders correctly with lose banner 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 12,
+        "flexDirection": "row",
+        "marginLeft": 32,
+        "marginTop": 18,
+        "shadowColor": "rgba(53, 53, 53, 0.3)",
+        "shadowOffset": Object {
+          "height": 4,
+          "width": 4,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 2,
+        "width": 702,
+      },
+    ]
+  }
+>
+  <Image
+    resizeMode="cover"
+    source={
+      Object {
+        "uri": "",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "borderBottomLeftRadius": 12,
+          "borderTopLeftRadius": 12,
+          "height": "100%",
+          "width": 320,
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "flex-start",
+          "borderBottomRightRadius": 12,
+          "borderTopRightRadius": 12,
+          "height": 290,
+          "justifyContent": "flex-start",
+          "marginBottom": 32,
+          "width": 382,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "backgroundColor": "#F9F9F9",
+            "borderTopRightRadius": 12,
+            "flexDirection": "column",
+            "height": 66.75,
+            "justifyContent": "space-between",
+            "paddingLeft": 38,
+            "paddingRight": 32,
+            "width": 382,
+          },
+        ]
+      }
+    >
+      <Text
+        alignCenter={true}
+        allowFontScaling={true}
+        color="#353535"
+        fontFamily="REGULAR"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#353535",
+              "fontFamily": "CalibreRegular",
+              "fontSize": 24,
+              "justifyContent": "center",
+              "textAlign": "center",
+              "textDecorationColor": "#353535",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "paddingTop": 7.5,
+            },
+          ]
+        }
+      >
+        
+      </Text>
+      <Text
+        alignCenter={true}
+        allowFontScaling={true}
+        color="#8B8B8B"
+        fontFamily="REGULAR"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#8B8B8B",
+              "fontFamily": "CalibreRegular",
+              "fontSize": 24,
+              "justifyContent": "center",
+              "textAlign": "center",
+              "textDecorationColor": "#8B8B8B",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "paddingTop": 7.5,
+            },
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "paddingHorizontal": 32,
+            "paddingTop": 48,
+            "width": 382,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 80,
+            },
+          ]
+        }
+      >
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#222222"
+          fontFamily="SEMI BOLD"
+          isUnderlined={false}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          numberOfLines={2}
+          size="XXSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#222222",
+                "fontFamily": "Calibre-Semibold",
+                "fontSize": 21,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#222222",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "paddingTop": 7.5,
+              },
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+      <Text
+        alignCenter={true}
+        allowFontScaling={true}
+        color="#8B8B8B"
+        fontFamily="REGULAR"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#8B8B8B",
+              "fontFamily": "CalibreRegular",
+              "fontSize": 21,
+              "justifyContent": "center",
+              "textAlign": "center",
+              "textDecorationColor": "#8B8B8B",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+          ]
+        }
+      >
+        0 Tokens
+      </Text>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "width": "100%",
+            },
+          ]
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          hitSlop={
+            Object {
+              "bottom": 10,
+              "left": 10,
+              "right": 10,
+              "top": 10,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+          testID="button"
+        >
+          <Text
+            alignCenter={true}
+            allowFontScaling={true}
+            color="#F06B59"
+            fontFamily="MEDIUM"
+            isUnderlined={true}
+            isUppercase={false}
+            maxFontSizeMultiplier={1.3}
+            size="XXXXSMALL"
+            style={
+              Array [
+                Object {
+                  "color": "#F06B59",
+                  "fontFamily": "Calibre-Medium",
+                  "fontSize": 18,
+                  "justifyContent": "center",
+                  "textAlign": "center",
+                  "textDecorationColor": "#F06B59",
+                  "textDecorationLine": "underline",
+                  "textDecorationStyle": "solid",
+                  "textTransform": "none",
+                },
+                Object {
+                  "paddingTop": 7.5,
+                  "textDecorationColor": "black",
+                  "textDecorationLine": "none",
+                  "textDecorationStyle": "solid",
+                },
+              ]
+            }
+            testID="report-issue-text-button"
+          >
+            Report issue
+          </Text>
+        </View>
+        <View
+          accessible={true}
+          focusable={true}
+          hitSlop={
+            Object {
+              "bottom": 12,
+              "left": 12,
+              "right": 12,
+              "top": 12,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "marginLeft": 0,
+              "marginTop": 0,
+              "opacity": 1,
+            }
+          }
+          testID="play-button"
+        >
+          <Image
+            opacity={1}
+            resizeMode="contain"
+            size={32}
+            source={1}
+            style={
+              Array [
+                Object {
+                  "height": 48,
+                  "width": 48,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          accessible={true}
+          focusable={true}
+          hitSlop={
+            Object {
+              "bottom": 12,
+              "left": 12,
+              "right": 12,
+              "top": 12,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "marginLeft": 0,
+              "marginTop": 0,
+              "opacity": 1,
+            }
+          }
+          testID="share-button"
+        >
+          <Image
+            opacity={1}
+            resizeMode="contain"
+            size={32}
+            source={1}
+            style={
+              Array [
+                Object {
+                  "height": 48,
+                  "width": 48,
+                },
+              ]
+            }
+          />
+        </View>
+      </View>
+    </View>
+  </View>
+  <Image
+    resizeMode="contain"
+    source={1}
+    style={
+      Array [
+        Object {
+          "height": 116,
+          "left": -4,
+          "position": "absolute",
+          "top": -4,
+          "width": 120,
+        },
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`Component PlayHistoryCard renders correctly with win banner 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 12,
+        "flexDirection": "row",
+        "marginLeft": 32,
+        "marginTop": 18,
+        "shadowColor": "rgba(53, 53, 53, 0.3)",
+        "shadowOffset": Object {
+          "height": 4,
+          "width": 4,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 2,
+        "width": 702,
+      },
+    ]
+  }
+>
+  <Image
+    resizeMode="cover"
+    source={
+      Object {
+        "uri": "",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "borderBottomLeftRadius": 12,
+          "borderTopLeftRadius": 12,
+          "height": "100%",
+          "width": 320,
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "flex-start",
+          "borderBottomRightRadius": 12,
+          "borderTopRightRadius": 12,
+          "height": 290,
+          "justifyContent": "flex-start",
+          "marginBottom": 32,
+          "width": 382,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "backgroundColor": "#F9F9F9",
+            "borderTopRightRadius": 12,
+            "flexDirection": "column",
+            "height": 66.75,
+            "justifyContent": "space-between",
+            "paddingLeft": 38,
+            "paddingRight": 32,
+            "width": 382,
+          },
+        ]
+      }
+    >
+      <Text
+        alignCenter={true}
+        allowFontScaling={true}
+        color="#353535"
+        fontFamily="REGULAR"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#353535",
+              "fontFamily": "CalibreRegular",
+              "fontSize": 24,
+              "justifyContent": "center",
+              "textAlign": "center",
+              "textDecorationColor": "#353535",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "paddingTop": 7.5,
+            },
+          ]
+        }
+      >
+        
+      </Text>
+      <Text
+        alignCenter={true}
+        allowFontScaling={true}
+        color="#8B8B8B"
+        fontFamily="REGULAR"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#8B8B8B",
+              "fontFamily": "CalibreRegular",
+              "fontSize": 24,
+              "justifyContent": "center",
+              "textAlign": "center",
+              "textDecorationColor": "#8B8B8B",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "paddingTop": 7.5,
+            },
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "paddingHorizontal": 32,
+            "paddingTop": 48,
+            "width": 382,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 80,
+            },
+          ]
+        }
+      >
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#222222"
+          fontFamily="SEMI BOLD"
+          isUnderlined={false}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          numberOfLines={2}
+          size="XXSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#222222",
+                "fontFamily": "Calibre-Semibold",
+                "fontSize": 21,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#222222",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "paddingTop": 7.5,
+              },
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+      <Text
+        alignCenter={true}
+        allowFontScaling={true}
+        color="#8B8B8B"
+        fontFamily="REGULAR"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#8B8B8B",
+              "fontFamily": "CalibreRegular",
+              "fontSize": 21,
+              "justifyContent": "center",
+              "textAlign": "center",
+              "textDecorationColor": "#8B8B8B",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+          ]
+        }
+      >
+        0 Tokens
+      </Text>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "width": "100%",
+            },
+          ]
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          hitSlop={
+            Object {
+              "bottom": 10,
+              "left": 10,
+              "right": 10,
+              "top": 10,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+          testID="button"
+        >
+          <Text
+            alignCenter={true}
+            allowFontScaling={true}
+            color="#F06B59"
+            fontFamily="MEDIUM"
+            isUnderlined={true}
+            isUppercase={false}
+            maxFontSizeMultiplier={1.3}
+            size="XXXXSMALL"
+            style={
+              Array [
+                Object {
+                  "color": "#F06B59",
+                  "fontFamily": "Calibre-Medium",
+                  "fontSize": 18,
+                  "justifyContent": "center",
+                  "textAlign": "center",
+                  "textDecorationColor": "#F06B59",
+                  "textDecorationLine": "underline",
+                  "textDecorationStyle": "solid",
+                  "textTransform": "none",
+                },
+                Object {
+                  "paddingTop": 7.5,
+                  "textDecorationColor": "black",
+                  "textDecorationLine": "none",
+                  "textDecorationStyle": "solid",
+                },
+              ]
+            }
+            testID="report-issue-text-button"
+          >
+            Report issue
+          </Text>
+        </View>
+        <View
+          accessible={true}
+          focusable={true}
+          hitSlop={
+            Object {
+              "bottom": 12,
+              "left": 12,
+              "right": 12,
+              "top": 12,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "marginLeft": 0,
+              "marginTop": 0,
+              "opacity": 1,
+            }
+          }
+          testID="play-button"
+        >
+          <Image
+            opacity={1}
+            resizeMode="contain"
+            size={32}
+            source={1}
+            style={
+              Array [
+                Object {
+                  "height": 48,
+                  "width": 48,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          accessible={true}
+          focusable={true}
+          hitSlop={
+            Object {
+              "bottom": 12,
+              "left": 12,
+              "right": 12,
+              "top": 12,
+            }
+          }
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "marginLeft": 0,
+              "marginTop": 0,
+              "opacity": 1,
+            }
+          }
+          testID="share-button"
+        >
+          <Image
+            opacity={1}
+            resizeMode="contain"
+            size={32}
+            source={1}
+            style={
+              Array [
+                Object {
+                  "height": 48,
+                  "width": 48,
+                },
+              ]
+            }
+          />
+        </View>
+      </View>
+    </View>
+  </View>
+  <Image
+    resizeMode="contain"
+    source={1}
+    style={
+      Array [
+        Object {
+          "height": 116,
+          "left": -4,
+          "position": "absolute",
+          "top": -4,
+          "width": 120,
+        },
+      ]
+    }
+  />
+</View>
+`;

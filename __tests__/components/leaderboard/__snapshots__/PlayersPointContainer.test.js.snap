@@ -1,0 +1,236 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component PlayersPointContainer renders correctly when PlayerData passes 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginTop": 10,
+        "paddingHorizontal": 90,
+        "width": 830,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 1,
+        },
+      ]
+    }
+  >
+    <Text
+      alignCenter={false}
+      allowFontScaling={true}
+      color="#FFFFFF"
+      fontFamily="BOLD"
+      isUnderlined={false}
+      isUppercase={false}
+      maxFontSizeMultiplier={1.3}
+      size="NORMAL"
+      style={
+        Array [
+          Object {
+            "color": "#FFFFFF",
+            "fontFamily": "CalibreBold",
+            "fontSize": 30,
+            "justifyContent": "center",
+            "textAlign": "left",
+            "textDecorationColor": "#FFFFFF",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "none",
+          },
+          Object {
+            "left": 32,
+            "width": 200,
+          },
+        ]
+      }
+    >
+      My Rank
+    </Text>
+    <View
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "borderRightColor": "transparent",
+          "borderRightWidth": 12,
+          "borderTopColor": "#0915CC",
+          "borderTopWidth": 38,
+          "flexDirection": "row",
+          "marginVertical": 10,
+          "width": 290,
+        }
+      }
+    >
+      <Image
+        resideMode="contain"
+        source={1}
+        style={
+          Array [
+            Object {
+              "borderRadius": 100,
+              "height": 100,
+              "left": -30,
+              "position": "absolute",
+              "top": -90,
+              "width": 100,
+            },
+          ]
+        }
+      />
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#45FFF7"
+        fontFamily="BOLD ITALIC"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="LARGE"
+        style={
+          Array [
+            Object {
+              "color": "#45FFF7",
+              "fontFamily": "CalibreBoldItalic",
+              "fontSize": 31.5,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#45FFF7",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "justifyContent": "center",
+              "left": 30,
+              "paddingLeft": 40,
+              "position": "absolute",
+              "textAlign": "center",
+              "top": -64,
+            },
+          ]
+        }
+      >
+        #
+        0
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 1,
+        },
+      ]
+    }
+  >
+    <Text
+      alignCenter={false}
+      allowFontScaling={true}
+      color="#FFFFFF"
+      fontFamily="BOLD"
+      isUnderlined={false}
+      isUppercase={false}
+      maxFontSizeMultiplier={1.3}
+      size="NORMAL"
+      style={
+        Array [
+          Object {
+            "color": "#FFFFFF",
+            "fontFamily": "CalibreBold",
+            "fontSize": 30,
+            "justifyContent": "center",
+            "textAlign": "left",
+            "textDecorationColor": "#FFFFFF",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "none",
+          },
+          Object {
+            "left": 32,
+            "width": 200,
+          },
+        ]
+      }
+    >
+      My Win
+    </Text>
+    <View
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "borderRightColor": "transparent",
+          "borderRightWidth": 12,
+          "borderTopColor": "#0915CC",
+          "borderTopWidth": 38,
+          "marginVertical": 10,
+          "width": 250,
+        }
+      }
+    >
+      <Image
+        resideMode="contain"
+        source={1}
+        style={
+          Array [
+            Object {
+              "borderRadius": 100,
+              "height": 100,
+              "left": -30,
+              "position": "absolute",
+              "top": -90,
+              "width": 100,
+            },
+          ]
+        }
+      />
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#45FFF7"
+        fontFamily="BOLD ITALIC"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="LARGE"
+        style={
+          Array [
+            Object {
+              "color": "#45FFF7",
+              "fontFamily": "CalibreBoldItalic",
+              "fontSize": 31.5,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#45FFF7",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "justifyContent": "center",
+              "left": 30,
+              "paddingLeft": 40,
+              "position": "absolute",
+              "textAlign": "center",
+              "top": -64,
+            },
+          ]
+        }
+      >
+        0
+      </Text>
+    </View>
+  </View>
+</View>
+`;

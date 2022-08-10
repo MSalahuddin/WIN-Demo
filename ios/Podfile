@@ -1,0 +1,90 @@
+platform :ios, '11.0'
+require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
+
+project 'Win_demo',
+'Debug' => :debug,
+'Release' => :release,
+'Debug-Dev' => :debug,
+'Release-Dev' => :release,
+'Debug-Staging' => :debug,
+'Release-Staging' => :release
+
+
+target 'Win_demo' do
+  $RNAppsFlyerStrictMode=true
+  # Pods for Win_demo
+  permissions_path = '../node_modules/react-native-permissions/ios'
+  pod 'Permission-Notifications', :path => "#{permissions_path}/Notifications.podspec"
+  pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
+  pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
+  pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
+  pod 'RCTTypeSafety', :path => "../node_modules/react-native/Libraries/TypeSafety"
+  pod 'React', :path => '../node_modules/react-native/'
+  pod 'React-Core', :path => '../node_modules/react-native/'
+  pod 'React-CoreModules', :path => '../node_modules/react-native/React/CoreModules'
+  pod 'React-Core/DevSupport', :path => '../node_modules/react-native/'
+  pod 'React-RCTActionSheet', :path => '../node_modules/react-native/Libraries/ActionSheetIOS'
+  pod 'React-RCTAnimation', :path => '../node_modules/react-native/Libraries/NativeAnimation'
+  pod 'React-RCTBlob', :path => '../node_modules/react-native/Libraries/Blob'
+  pod 'React-RCTImage', :path => '../node_modules/react-native/Libraries/Image'
+  pod 'React-RCTLinking', :path => '../node_modules/react-native/Libraries/LinkingIOS'
+  pod 'React-RCTNetwork', :path => '../node_modules/react-native/Libraries/Network'
+  pod 'React-RCTSettings', :path => '../node_modules/react-native/Libraries/Settings'
+  pod 'React-RCTText', :path => '../node_modules/react-native/Libraries/Text'
+  pod 'React-RCTVibration', :path => '../node_modules/react-native/Libraries/Vibration'
+  pod 'React-Core/RCTWebSocket', :path => '../node_modules/react-native/'
+
+  pod 'React-cxxreact', :path => '../node_modules/react-native/ReactCommon/cxxreact'
+  pod 'React-jsi', :path => '../node_modules/react-native/ReactCommon/jsi'
+  pod 'React-jsiexecutor', :path => '../node_modules/react-native/ReactCommon/jsiexecutor'
+  pod 'React-jsinspector', :path => '../node_modules/react-native/ReactCommon/jsinspector'
+  pod 'React-callinvoker', :path => "../node_modules/react-native/ReactCommon/callinvoker"
+  pod 'ReactCommon/turbomodule/core', :path => "../node_modules/react-native/ReactCommon"
+  pod 'Yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
+
+  pod 'DoubleConversion', :podspec => '../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec'
+  pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
+  pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
+  pod 'FBSDKCoreKit', '~> 11.2'
+
+  pod 'BlueShift-iOS-SDK'
+  pod 'GetSocial/Core', '~> 6.34'
+  pod 'IronSourceSDK','7.2.2.1'
+  pod 'IronSourceAdColonyAdapter','4.3.14.0'
+  pod 'IronSourceAdMobAdapter','4.3.32.1'
+  pod 'IronSourceAppLovinAdapter','4.3.32.0'
+  pod 'IronSourceFacebookAdapter','4.3.36.0'
+  pod 'IronSourceInMobiAdapter','4.3.14.2'
+  pod 'IronSourceTapjoyAdapter','4.1.19.2'
+  pod 'IronSourceUnityAdsAdapter','4.3.22.1'
+  pod 'IronSourcePangleAdapter','4.3.14.2'
+  pod 'SDWebImage', '~> 5.0'
+  pod 'Google-Mobile-Ads-SDK'
+  
+  target 'Win_demoTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  use_native_modules!
+end
+
+
+target 'NotificationService' do
+  pod 'BlueShift-iOS-Extension-SDK'
+end
+
+target 'NotificationContent' do
+  pod 'BlueShift-iOS-Extension-SDK'
+end
+
+
+target 'Win_demo-tvOS' do
+  # Pods for Win_demo-tvOS
+
+  target 'Win_demo-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

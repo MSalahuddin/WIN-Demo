@@ -1,0 +1,225 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component CircularProgress renders correctly when there is imageSource 1`] = `
+<View
+  height={52}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "height": 78,
+        "justifyContent": "center",
+        "width": 78,
+      },
+    ]
+  }
+  width={52}
+>
+  <View
+    borderRadius={26}
+    height={52}
+    style={
+      Array [
+        Object {
+          "borderRadius": 39,
+          "height": 78,
+          "position": "absolute",
+          "width": 78,
+        },
+      ]
+    }
+    width={52}
+  />
+  <View
+    borderRadius={26}
+    borderWidth={4}
+    height={52}
+    ringColor="#72D59E"
+    style={
+      Array [
+        Object {
+          "borderBottomColor": "transparent",
+          "borderLeftColor": "transparent",
+          "borderRadius": 39,
+          "borderRightColor": "#72D59E",
+          "borderTopColor": "#72D59E",
+          "borderWidth": 6,
+          "height": 78,
+          "position": "absolute",
+          "width": 78,
+        },
+        Object {
+          "transform": Array [
+            Object {
+              "rotateZ": "-27deg",
+            },
+          ],
+        },
+      ]
+    }
+    width={52}
+  />
+  <View
+    borderRadius={26}
+    borderWidth={26}
+    height={52}
+    ringBgColor="#F9F9F9"
+    style={
+      Array [
+        Object {
+          "borderBottomColor": "transparent",
+          "borderLeftColor": "transparent",
+          "borderRadius": 39,
+          "borderRightColor": "#F9F9F9",
+          "borderTopColor": "#F9F9F9",
+          "borderWidth": 42,
+          "height": 78,
+          "position": "absolute",
+          "width": 78,
+        },
+        Object {
+          "transform": Array [
+            Object {
+              "rotateZ": "-135deg",
+            },
+          ],
+        },
+      ]
+    }
+    width={52}
+  />
+  <Image
+    borderRadius={23}
+    height={46}
+    opacity={0.5}
+    resizeMode="cover"
+    source={
+      Object {
+        "uri": "a",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "borderRadius": 34.5,
+          "height": 69,
+          "width": 69,
+        },
+      ]
+    }
+    width={46}
+  />
+</View>
+`;
+
+exports[`Component CircularProgress renders correctly when there is no imageSource 1`] = `
+<View
+  height={52}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "height": 78,
+        "justifyContent": "center",
+        "width": 78,
+      },
+    ]
+  }
+  width={52}
+>
+  <View
+    borderRadius={26}
+    height={52}
+    style={
+      Array [
+        Object {
+          "borderRadius": 39,
+          "height": 78,
+          "position": "absolute",
+          "width": 78,
+        },
+      ]
+    }
+    width={52}
+  />
+  <View
+    borderRadius={26}
+    borderWidth={4}
+    height={52}
+    ringColor="#72D59E"
+    style={
+      Array [
+        Object {
+          "borderBottomColor": "transparent",
+          "borderLeftColor": "transparent",
+          "borderRadius": 39,
+          "borderRightColor": "#72D59E",
+          "borderTopColor": "#72D59E",
+          "borderWidth": 6,
+          "height": 78,
+          "position": "absolute",
+          "width": 78,
+        },
+        Object {
+          "transform": Array [
+            Object {
+              "rotateZ": "-27deg",
+            },
+          ],
+        },
+      ]
+    }
+    width={52}
+  />
+  <View
+    borderRadius={26}
+    borderWidth={26}
+    height={52}
+    ringBgColor="#F9F9F9"
+    style={
+      Array [
+        Object {
+          "borderBottomColor": "transparent",
+          "borderLeftColor": "transparent",
+          "borderRadius": 39,
+          "borderRightColor": "#F9F9F9",
+          "borderTopColor": "#F9F9F9",
+          "borderWidth": 42,
+          "height": 78,
+          "position": "absolute",
+          "width": 78,
+        },
+        Object {
+          "transform": Array [
+            Object {
+              "rotateZ": "-135deg",
+            },
+          ],
+        },
+      ]
+    }
+    width={52}
+  />
+  <Image
+    borderRadius={23}
+    height={46}
+    opacity={0.5}
+    resizeMode="cover"
+    source={
+      Object {
+        "uri": "",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "borderRadius": 34.5,
+          "height": 69,
+          "width": 69,
+        },
+      ]
+    }
+    width={46}
+  />
+</View>
+`;

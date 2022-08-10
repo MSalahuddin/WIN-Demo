@@ -1,0 +1,399 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component AchievementMedals renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#F9F9F9",
+          "flexDirection": "row",
+          "height": 192,
+          "marginTop": 32,
+          "paddingBottom": 24,
+          "width": "100%",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-evenly",
+            "overflow": "hidden",
+            "width": "100%",
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "justifyContent": "flex-start",
+              "paddingHorizontal": 20,
+              "width": 158,
+            },
+          ]
+        }
+      >
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#222222"
+          fontFamily="SEMI BOLD"
+          isUnderlined={false}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          numberOfLines={1}
+          size="XXSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#222222",
+                "fontFamily": "Calibre-Semibold",
+                "fontSize": 21,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#222222",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "marginTop": 16,
+              },
+            ]
+          }
+        >
+          
+        </Text>
+        <View
+          height={52}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 78,
+                "justifyContent": "center",
+                "width": 78,
+              },
+            ]
+          }
+          width={52}
+        >
+          <View
+            borderRadius={26}
+            height={52}
+            style={
+              Array [
+                Object {
+                  "borderRadius": 39,
+                  "height": 78,
+                  "position": "absolute",
+                  "width": 78,
+                },
+              ]
+            }
+            width={52}
+          />
+          <View
+            borderRadius={26}
+            borderWidth={4}
+            height={52}
+            ringColor="#72D59E"
+            style={
+              Array [
+                Object {
+                  "borderBottomColor": "transparent",
+                  "borderLeftColor": "transparent",
+                  "borderRadius": 39,
+                  "borderRightColor": "#72D59E",
+                  "borderTopColor": "#72D59E",
+                  "borderWidth": 6,
+                  "height": 78,
+                  "position": "absolute",
+                  "width": 78,
+                },
+                Object {
+                  "transform": Array [
+                    Object {
+                      "rotateZ": "45deg",
+                    },
+                  ],
+                },
+              ]
+            }
+            width={52}
+          />
+          <View
+            borderRadius={26}
+            borderWidth={26}
+            height={52}
+            ringBgColor="#F9F9F9"
+            style={
+              Array [
+                Object {
+                  "borderBottomColor": "transparent",
+                  "borderLeftColor": "transparent",
+                  "borderRadius": 39,
+                  "borderRightColor": "#F9F9F9",
+                  "borderTopColor": "#F9F9F9",
+                  "borderWidth": 42,
+                  "height": 78,
+                  "position": "absolute",
+                  "width": 78,
+                },
+                Object {
+                  "transform": Array [
+                    Object {
+                      "rotateZ": "-135deg",
+                    },
+                  ],
+                },
+              ]
+            }
+            width={52}
+          />
+          <Image
+            borderRadius={23}
+            height={46}
+            opacity={0.5}
+            resizeMode="cover"
+            source={
+              Object {
+                "uri": "",
+              }
+            }
+            style={
+              Array [
+                Object {
+                  "borderRadius": 34.5,
+                  "height": 69,
+                  "width": 69,
+                },
+              ]
+            }
+            width={46}
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "justifyContent": "flex-start",
+              "paddingHorizontal": 20,
+              "width": 158,
+            },
+          ]
+        }
+      >
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#222222"
+          fontFamily="SEMI BOLD"
+          isUnderlined={false}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          numberOfLines={1}
+          size="XXSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#222222",
+                "fontFamily": "Calibre-Semibold",
+                "fontSize": 21,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#222222",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "marginTop": 16,
+              },
+            ]
+          }
+        >
+          
+        </Text>
+        <View
+          height={52}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 78,
+                "justifyContent": "center",
+                "width": 78,
+              },
+            ]
+          }
+          width={52}
+        >
+          <View
+            borderRadius={26}
+            height={52}
+            style={
+              Array [
+                Object {
+                  "borderRadius": 39,
+                  "height": 78,
+                  "position": "absolute",
+                  "width": 78,
+                },
+              ]
+            }
+            width={52}
+          />
+          <View
+            borderRadius={26}
+            borderWidth={4}
+            height={52}
+            ringColor="#72D59E"
+            style={
+              Array [
+                Object {
+                  "borderBottomColor": "transparent",
+                  "borderLeftColor": "transparent",
+                  "borderRadius": 39,
+                  "borderRightColor": "#72D59E",
+                  "borderTopColor": "#72D59E",
+                  "borderWidth": 6,
+                  "height": 78,
+                  "position": "absolute",
+                  "width": 78,
+                },
+                Object {
+                  "transform": Array [
+                    Object {
+                      "rotateZ": "45deg",
+                    },
+                  ],
+                },
+              ]
+            }
+            width={52}
+          />
+          <View
+            borderRadius={26}
+            borderWidth={26}
+            height={52}
+            ringBgColor="#F9F9F9"
+            style={
+              Array [
+                Object {
+                  "borderBottomColor": "transparent",
+                  "borderLeftColor": "transparent",
+                  "borderRadius": 39,
+                  "borderRightColor": "#F9F9F9",
+                  "borderTopColor": "#F9F9F9",
+                  "borderWidth": 42,
+                  "height": 78,
+                  "position": "absolute",
+                  "width": 78,
+                },
+                Object {
+                  "transform": Array [
+                    Object {
+                      "rotateZ": "-135deg",
+                    },
+                  ],
+                },
+              ]
+            }
+            width={52}
+          />
+          <Image
+            borderRadius={23}
+            height={46}
+            opacity={0.5}
+            resizeMode="cover"
+            source={
+              Object {
+                "uri": "",
+              }
+            }
+            style={
+              Array [
+                Object {
+                  "borderRadius": 34.5,
+                  "height": 69,
+                  "width": 69,
+                },
+              ]
+            }
+            width={46}
+          />
+        </View>
+      </View>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      hitSlop={
+        Object {
+          "bottom": 12,
+          "left": 12,
+          "right": 12,
+          "top": 12,
+        }
+      }
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "marginLeft": "auto",
+          "marginRight": 30,
+          "marginTop": 64,
+          "opacity": 1,
+        }
+      }
+      testID="medal-button"
+    >
+      <Image
+        opacity={1}
+        resizeMode="contain"
+        size={40}
+        source={1}
+        style={
+          Array [
+            Object {
+              "height": 60,
+              "width": 60,
+            },
+          ]
+        }
+      />
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,368 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component VaultButton renders ship button correctly 1`] = `
+<View
+  onLayout={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+      },
+    ]
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "rgba(96,202,142,1)",
+        "borderRadius": 80,
+        "height": 96,
+        "justifyContent": "center",
+        "opacity": 1,
+        "width": 280,
+      }
+    }
+    testID="button"
+  >
+    <View
+      borderRadius={40}
+      colorScheme="rgba(128,229,173,1)"
+      height={48}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "rgba(128,229,173,1)",
+            "borderRadius": 80,
+            "height": 86,
+            "justifyContent": "center",
+            "width": 274,
+          },
+        ]
+      }
+      width={140}
+    >
+      <View
+        borderRadius={40}
+        colorScheme="rgba(114,213,158,1)"
+        height={48}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "rgba(114,213,158,1)",
+              "borderRadius": 100,
+              "height": 82,
+              "justifyContent": "center",
+              "marginTop": 8,
+              "width": 274,
+            },
+          ]
+        }
+        width={140}
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "paddingHorizontal": 10.5,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "flexBasis": 0,
+                  "flexDirection": "column",
+                  "flexGrow": 1,
+                  "flexShrink": 1,
+                  "justifyContent": "center",
+                },
+              ]
+            }
+          >
+            <Text
+              alignCenter={false}
+              allowFontScaling={true}
+              color="#000000"
+              fontFamily="MEDIUM"
+              isUnderlined={false}
+              isUppercase={false}
+              maxFontSizeMultiplier={1.3}
+              size="NORMAL"
+              style={
+                Array [
+                  Object {
+                    "color": "#000000",
+                    "fontFamily": "Calibre-Medium",
+                    "fontSize": 30,
+                    "justifyContent": "center",
+                    "textAlign": "left",
+                    "textDecorationColor": "#000000",
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textTransform": "none",
+                  },
+                  Object {
+                    "color": "#FFFFFF",
+                    "marginTop": 12,
+                  },
+                ]
+              }
+            >
+              Ship now
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#FFFFFF",
+                  "borderRadius": 24,
+                  "height": 48,
+                  "justifyContent": "center",
+                  "opacity": 0.5,
+                  "overflow": "hidden",
+                  "width": 48,
+                },
+              ]
+            }
+          >
+            <Image
+              resizeMode="contain"
+              source={1}
+              style={
+                Array [
+                  Object {
+                    "height": 27,
+                    "width": 27,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Component VaultButton renders swap button correctly 1`] = `
+<View
+  onLayout={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+      },
+    ]
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "rgba(116, 158, 253, 1)",
+        "borderRadius": 80,
+        "height": 96,
+        "justifyContent": "center",
+        "opacity": 1,
+        "width": 280,
+      }
+    }
+    testID="button"
+  >
+    <View
+      borderRadius={40}
+      colorScheme="rgba(165, 193, 255, 1)"
+      height={48}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "rgba(165, 193, 255, 1)",
+            "borderRadius": 80,
+            "height": 86,
+            "justifyContent": "center",
+            "width": 274,
+          },
+        ]
+      }
+      width={140}
+    >
+      <View
+        borderRadius={40}
+        colorScheme="rgba(127, 166, 253, 1)"
+        height={48}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "rgba(127, 166, 253, 1)",
+              "borderRadius": 100,
+              "height": 82,
+              "justifyContent": "center",
+              "marginTop": 8,
+              "width": 274,
+            },
+          ]
+        }
+        width={140}
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+                "paddingHorizontal": 10.5,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "flexBasis": 0,
+                  "flexDirection": "column",
+                  "flexGrow": 1,
+                  "flexShrink": 1,
+                  "justifyContent": "center",
+                },
+              ]
+            }
+          >
+            <Text
+              alignCenter={false}
+              allowFontScaling={true}
+              color="#000000"
+              fontFamily="MEDIUM"
+              isUnderlined={false}
+              isUppercase={false}
+              maxFontSizeMultiplier={1.3}
+              size="NORMAL"
+              style={
+                Array [
+                  Object {
+                    "color": "#000000",
+                    "fontFamily": "Calibre-Medium",
+                    "fontSize": 30,
+                    "justifyContent": "center",
+                    "textAlign": "left",
+                    "textDecorationColor": "#000000",
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textTransform": "none",
+                  },
+                  Object {
+                    "color": "#FFFFFF",
+                    "marginTop": 12,
+                  },
+                ]
+              }
+            >
+              Swap for
+            </Text>
+            <Text
+              alignCenter={false}
+              allowFontScaling={true}
+              color="#000000"
+              fontFamily="MEDIUM"
+              isUnderlined={false}
+              isUppercase={false}
+              maxFontSizeMultiplier={1.3}
+              size="XXSMALL"
+              style={
+                Array [
+                  Object {
+                    "color": "#000000",
+                    "fontFamily": "Calibre-Medium",
+                    "fontSize": 21,
+                    "justifyContent": "center",
+                    "textAlign": "left",
+                    "textDecorationColor": "#000000",
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textTransform": "none",
+                  },
+                  Object {
+                    "color": "#FFFFFF",
+                    "marginTop": -6,
+                  },
+                ]
+              }
+            >
+              0 tickets
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#FFFFFF",
+                  "borderRadius": 24,
+                  "height": 48,
+                  "justifyContent": "center",
+                  "opacity": 0.5,
+                  "overflow": "hidden",
+                  "width": 48,
+                },
+              ]
+            }
+          >
+            <Image
+              resizeMode="contain"
+              source={1}
+              style={
+                Array [
+                  Object {
+                    "height": 27,
+                    "width": 27,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

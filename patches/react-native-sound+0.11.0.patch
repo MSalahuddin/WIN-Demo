@@ -1,0 +1,29 @@
+diff --git a/node_modules/react-native-sound/RNSound/RNSound.m b/node_modules/react-native-sound/RNSound/RNSound.m
+index 5950dfe..02eb520 100644
+--- a/node_modules/react-native-sound/RNSound/RNSound.m
++++ b/node_modules/react-native-sound/RNSound/RNSound.m
+@@ -349,7 +349,7 @@ - (NSDictionary *)constantsToExport {
+     }
+ }
+ 
+-RCT_EXPORT_METHOD(setSpeakerPhone : (BOOL)on) {
++RCT_EXPORT_METHOD(setSpeakerphoneOn : (BOOL)on) {
+     AVAudioSession *session = [AVAudioSession sharedInstance];
+     if (on) {
+         [session overrideOutputAudioPort:AVAudioSessionPortOverrideSpeaker
+diff --git a/node_modules/react-native-sound/sound.js b/node_modules/react-native-sound/sound.js
+index 015cf43..46c85f8 100644
+--- a/node_modules/react-native-sound/sound.js
++++ b/node_modules/react-native-sound/sound.js
+@@ -221,9 +221,8 @@ Sound.prototype.setCurrentTime = function(value) {
+ 
+ // android only
+ Sound.prototype.setSpeakerphoneOn = function(value) {
+-  if (IsAndroid) {
+-    RNSound.setSpeakerphoneOn(this._key, value);
+-  }
++    RNSound.setSpeakerphoneOn(value);
++  
+ };
+ 
+ // ios only

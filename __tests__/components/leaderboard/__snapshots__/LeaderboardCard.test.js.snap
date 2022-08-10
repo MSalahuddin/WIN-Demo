@@ -1,0 +1,1517 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component LeaderboardCard renders correctly when isCurrentPlayer={false} 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#F9F9F9",
+        "borderRadius": 12,
+        "marginHorizontal": 32,
+        "marginTop": 18,
+        "shadowColor": "rgba(53, 53, 53, 0.3)",
+        "shadowOffset": Object {
+          "height": 4,
+          "width": 4,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 2,
+      },
+    ]
+  }
+>
+  <View
+    isCurrentPlayer={false}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#7C89D8",
+          "borderTopLeftRadius": 12,
+          "borderTopRightRadius": 12,
+          "flexDirection": "row",
+          "height": 110,
+          "width": "100%",
+        },
+      ]
+    }
+  >
+    <View
+      accessibilityIgnoresInvertColors={true}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "height": "100%",
+            "justifyContent": "center",
+            "width": 124,
+          },
+        ]
+      }
+    >
+      <Image
+        resizeMode="cover"
+        source={1}
+        style={
+          Array [
+            Object {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            Object {
+              "height": undefined,
+              "width": undefined,
+            },
+            undefined,
+          ]
+        }
+      />
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#FFFFFF"
+        fontFamily="BOLD"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#FFFFFF",
+              "fontFamily": "CalibreBold",
+              "fontSize": 24,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#FFFFFF",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "paddingHorizontal": 2,
+              "paddingTop": 20,
+              "textAlign": "center",
+            },
+          ]
+        }
+      >
+        0
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexBasis": 0,
+            "flexDirection": "row",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "justifyContent": "space-between",
+            "marginHorizontal": 32,
+          },
+        ]
+      }
+    >
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#FFFFFF"
+        fontFamily="BOLD"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#FFFFFF",
+              "fontFamily": "CalibreBold",
+              "fontSize": 24,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#FFFFFF",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "paddingHorizontal": 2,
+              "paddingTop": 20,
+              "textAlign": "center",
+            },
+          ]
+        }
+      >
+        
+      </Text>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+            },
+          ]
+        }
+      >
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#FFFFFF"
+          fontFamily="BOLD"
+          isUnderlined={false}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          size="XSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#FFFFFF",
+                "fontFamily": "CalibreBold",
+                "fontSize": 24,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#FFFFFF",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "paddingHorizontal": 2,
+                "paddingTop": 20,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          0
+        </Text>
+        <Image
+          source={1}
+          style={
+            Array [
+              Object {
+                "height": 33.2,
+                "marginLeft": 8,
+                "width": 32,
+              },
+            ]
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "width": 426,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "transparent",
+              "borderRadius": 48,
+              "height": 96,
+              "justifyContent": "center",
+              "top": -20,
+              "width": 96,
+            },
+          ]
+        }
+      >
+        <Image
+          resideMode="contain"
+          source={
+            Object {
+              "uri": "a",
+            }
+          }
+          style={
+            Array [
+              Object {
+                "borderColor": "#FFFFFF",
+                "borderRadius": 48,
+                "borderWidth": 2,
+                "height": 96,
+                "width": 96,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+            },
+          ]
+        }
+      >
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#8B8B8B"
+          fontFamily="REGULAR"
+          isUnderlined={false}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          size="XXSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#8B8B8B",
+                "fontFamily": "CalibreRegular",
+                "fontSize": 21,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#8B8B8B",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "paddingHorizontal": 2,
+                "paddingTop": 20,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          Total wins: 0
+        </Text>
+        <Image
+          marginLeft={8}
+          source={1}
+          style={
+            Array [
+              Object {
+                "height": 33.2,
+                "marginLeft": 16,
+                "width": 32,
+              },
+            ]
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexBasis": 0,
+            "flexGrow": 1,
+            "flexShrink": 1,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "transparent",
+              "borderRadius": 48,
+              "height": 96,
+              "justifyContent": "center",
+              "top": -20,
+              "width": 96,
+            },
+          ]
+        }
+      >
+        <Image
+          resideMode="contain"
+          source={
+            Object {
+              "uri": "a",
+            }
+          }
+          style={
+            Array [
+              Object {
+                "borderColor": "#FFFFFF",
+                "borderRadius": 48,
+                "borderWidth": 2,
+                "height": 96,
+                "width": 96,
+              },
+            ]
+          }
+        />
+      </View>
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#8B8B8B"
+        fontFamily="REGULAR"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        paddingTop={7}
+        size="XXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#8B8B8B",
+              "fontFamily": "CalibreRegular",
+              "fontSize": 21,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#8B8B8B",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "paddingHorizontal": 2,
+              "paddingTop": 14,
+              "textAlign": "center",
+            },
+          ]
+        }
+      >
+        Last won
+      </Text>
+      <View
+        onLayout={[Function]}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "marginVertical": 10,
+            },
+          ]
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "rgba(96,202,142,1)",
+              "borderRadius": 32,
+              "height": 64,
+              "justifyContent": "center",
+              "marginTop": 10,
+              "opacity": 1,
+              "width": 480,
+            }
+          }
+          testID="view-machine-button"
+        >
+          <View
+            borderRadius={16}
+            colorScheme="rgba(128,229,173,1)"
+            height={32}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "rgba(128,229,173,1)",
+                  "borderRadius": 32,
+                  "height": 54,
+                  "justifyContent": "center",
+                  "width": 474,
+                },
+              ]
+            }
+            width={240}
+          >
+            <View
+              borderRadius={16}
+              colorScheme="rgba(114,213,158,1)"
+              height={32}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "rgba(114,213,158,1)",
+                    "borderRadius": 52,
+                    "height": 50,
+                    "justifyContent": "center",
+                    "marginTop": 8,
+                    "width": 474,
+                  },
+                ]
+              }
+              width={240}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                paddingTop={5}
+                size="XXSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 21,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingHorizontal": 2,
+                      "paddingTop": 10,
+                      "textAlign": "center",
+                    },
+                  ]
+                }
+              >
+                View machine
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Component LeaderboardCard renders correctly when isCurrentPlayer={true} 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#F9F9F9",
+        "borderRadius": 12,
+        "marginHorizontal": 32,
+        "marginTop": 18,
+        "shadowColor": "rgba(53, 53, 53, 0.3)",
+        "shadowOffset": Object {
+          "height": 4,
+          "width": 4,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 2,
+      },
+    ]
+  }
+>
+  <View
+    isCurrentPlayer={true}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#333333",
+          "borderTopLeftRadius": 12,
+          "borderTopRightRadius": 12,
+          "flexDirection": "row",
+          "height": 110,
+          "width": "100%",
+        },
+      ]
+    }
+  >
+    <View
+      accessibilityIgnoresInvertColors={true}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "height": "100%",
+            "justifyContent": "center",
+            "width": 124,
+          },
+        ]
+      }
+    >
+      <Image
+        resizeMode="cover"
+        source={1}
+        style={
+          Array [
+            Object {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            Object {
+              "height": undefined,
+              "width": undefined,
+            },
+            undefined,
+          ]
+        }
+      />
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#FFFFFF"
+        fontFamily="BOLD"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#FFFFFF",
+              "fontFamily": "CalibreBold",
+              "fontSize": 24,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#FFFFFF",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "paddingHorizontal": 2,
+              "paddingTop": 20,
+              "textAlign": "center",
+            },
+          ]
+        }
+      >
+        0
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexBasis": 0,
+            "flexDirection": "row",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "justifyContent": "space-between",
+            "marginHorizontal": 32,
+          },
+        ]
+      }
+    >
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#FFFFFF"
+        fontFamily="BOLD"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#FFFFFF",
+              "fontFamily": "CalibreBold",
+              "fontSize": 24,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#FFFFFF",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "paddingHorizontal": 2,
+              "paddingTop": 20,
+              "textAlign": "center",
+            },
+          ]
+        }
+      >
+        
+      </Text>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+            },
+          ]
+        }
+      >
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#FFFFFF"
+          fontFamily="BOLD"
+          isUnderlined={false}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          size="XSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#FFFFFF",
+                "fontFamily": "CalibreBold",
+                "fontSize": 24,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#FFFFFF",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "paddingHorizontal": 2,
+                "paddingTop": 20,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          0
+        </Text>
+        <Image
+          source={1}
+          style={
+            Array [
+              Object {
+                "height": 33.2,
+                "marginLeft": 8,
+                "width": 32,
+              },
+            ]
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "width": 426,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "transparent",
+              "borderRadius": 48,
+              "height": 96,
+              "justifyContent": "center",
+              "top": -20,
+              "width": 96,
+            },
+          ]
+        }
+      >
+        <Image
+          resideMode="contain"
+          source={
+            Object {
+              "uri": "a",
+            }
+          }
+          style={
+            Array [
+              Object {
+                "borderColor": "#FFFFFF",
+                "borderRadius": 48,
+                "borderWidth": 2,
+                "height": 96,
+                "width": 96,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+            },
+          ]
+        }
+      >
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#8B8B8B"
+          fontFamily="REGULAR"
+          isUnderlined={false}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          size="XXSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#8B8B8B",
+                "fontFamily": "CalibreRegular",
+                "fontSize": 21,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#8B8B8B",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "paddingHorizontal": 2,
+                "paddingTop": 20,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          Total wins: 0
+        </Text>
+        <Image
+          marginLeft={8}
+          source={1}
+          style={
+            Array [
+              Object {
+                "height": 33.2,
+                "marginLeft": 16,
+                "width": 32,
+              },
+            ]
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexBasis": 0,
+            "flexGrow": 1,
+            "flexShrink": 1,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "transparent",
+              "borderRadius": 48,
+              "height": 96,
+              "justifyContent": "center",
+              "top": -20,
+              "width": 96,
+            },
+          ]
+        }
+      >
+        <Image
+          resideMode="contain"
+          source={
+            Object {
+              "uri": "a",
+            }
+          }
+          style={
+            Array [
+              Object {
+                "borderColor": "#FFFFFF",
+                "borderRadius": 48,
+                "borderWidth": 2,
+                "height": 96,
+                "width": 96,
+              },
+            ]
+          }
+        />
+      </View>
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#8B8B8B"
+        fontFamily="REGULAR"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        paddingTop={7}
+        size="XXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#8B8B8B",
+              "fontFamily": "CalibreRegular",
+              "fontSize": 21,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#8B8B8B",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "paddingHorizontal": 2,
+              "paddingTop": 14,
+              "textAlign": "center",
+            },
+          ]
+        }
+      >
+        Last won
+      </Text>
+      <View
+        onLayout={[Function]}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "marginVertical": 10,
+            },
+          ]
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "rgba(96,202,142,1)",
+              "borderRadius": 32,
+              "height": 64,
+              "justifyContent": "center",
+              "marginTop": 10,
+              "opacity": 1,
+              "width": 480,
+            }
+          }
+          testID="view-machine-button"
+        >
+          <View
+            borderRadius={16}
+            colorScheme="rgba(128,229,173,1)"
+            height={32}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "rgba(128,229,173,1)",
+                  "borderRadius": 32,
+                  "height": 54,
+                  "justifyContent": "center",
+                  "width": 474,
+                },
+              ]
+            }
+            width={240}
+          >
+            <View
+              borderRadius={16}
+              colorScheme="rgba(114,213,158,1)"
+              height={32}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "rgba(114,213,158,1)",
+                    "borderRadius": 52,
+                    "height": 50,
+                    "justifyContent": "center",
+                    "marginTop": 8,
+                    "width": 474,
+                  },
+                ]
+              }
+              width={240}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                paddingTop={5}
+                size="XXSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 21,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingHorizontal": 2,
+                      "paddingTop": 10,
+                      "textAlign": "center",
+                    },
+                  ]
+                }
+              >
+                View machine
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Component LeaderboardCard renders correctly when playerProfileImageUrl=null 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#F9F9F9",
+        "borderRadius": 12,
+        "marginHorizontal": 32,
+        "marginTop": 18,
+        "shadowColor": "rgba(53, 53, 53, 0.3)",
+        "shadowOffset": Object {
+          "height": 4,
+          "width": 4,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 2,
+      },
+    ]
+  }
+>
+  <View
+    isCurrentPlayer={false}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#7C89D8",
+          "borderTopLeftRadius": 12,
+          "borderTopRightRadius": 12,
+          "flexDirection": "row",
+          "height": 110,
+          "width": "100%",
+        },
+      ]
+    }
+  >
+    <View
+      accessibilityIgnoresInvertColors={true}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "height": "100%",
+            "justifyContent": "center",
+            "width": 124,
+          },
+        ]
+      }
+    >
+      <Image
+        resizeMode="cover"
+        source={1}
+        style={
+          Array [
+            Object {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            Object {
+              "height": undefined,
+              "width": undefined,
+            },
+            undefined,
+          ]
+        }
+      />
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#FFFFFF"
+        fontFamily="BOLD"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#FFFFFF",
+              "fontFamily": "CalibreBold",
+              "fontSize": 24,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#FFFFFF",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "paddingHorizontal": 2,
+              "paddingTop": 20,
+              "textAlign": "center",
+            },
+          ]
+        }
+      >
+        0
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexBasis": 0,
+            "flexDirection": "row",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "justifyContent": "space-between",
+            "marginHorizontal": 32,
+          },
+        ]
+      }
+    >
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#FFFFFF"
+        fontFamily="BOLD"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#FFFFFF",
+              "fontFamily": "CalibreBold",
+              "fontSize": 24,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#FFFFFF",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "paddingHorizontal": 2,
+              "paddingTop": 20,
+              "textAlign": "center",
+            },
+          ]
+        }
+      >
+        
+      </Text>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+            },
+          ]
+        }
+      >
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#FFFFFF"
+          fontFamily="BOLD"
+          isUnderlined={false}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          size="XSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#FFFFFF",
+                "fontFamily": "CalibreBold",
+                "fontSize": 24,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#FFFFFF",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "paddingHorizontal": 2,
+                "paddingTop": 20,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          0
+        </Text>
+        <Image
+          source={1}
+          style={
+            Array [
+              Object {
+                "height": 33.2,
+                "marginLeft": 8,
+                "width": 32,
+              },
+            ]
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "width": 426,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "transparent",
+              "borderRadius": 48,
+              "height": 96,
+              "justifyContent": "center",
+              "top": -20,
+              "width": 96,
+            },
+          ]
+        }
+      />
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+            },
+          ]
+        }
+      >
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#8B8B8B"
+          fontFamily="REGULAR"
+          isUnderlined={false}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          size="XXSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#8B8B8B",
+                "fontFamily": "CalibreRegular",
+                "fontSize": 21,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#8B8B8B",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "paddingHorizontal": 2,
+                "paddingTop": 20,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          Total wins: 0
+        </Text>
+        <Image
+          marginLeft={8}
+          source={1}
+          style={
+            Array [
+              Object {
+                "height": 33.2,
+                "marginLeft": 16,
+                "width": 32,
+              },
+            ]
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexBasis": 0,
+            "flexGrow": 1,
+            "flexShrink": 1,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "transparent",
+              "borderRadius": 48,
+              "height": 96,
+              "justifyContent": "center",
+              "top": -20,
+              "width": 96,
+            },
+          ]
+        }
+      >
+        <Image
+          resideMode="contain"
+          source={
+            Object {
+              "uri": "a",
+            }
+          }
+          style={
+            Array [
+              Object {
+                "borderColor": "#FFFFFF",
+                "borderRadius": 48,
+                "borderWidth": 2,
+                "height": 96,
+                "width": 96,
+              },
+            ]
+          }
+        />
+      </View>
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#8B8B8B"
+        fontFamily="REGULAR"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        paddingTop={7}
+        size="XXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#8B8B8B",
+              "fontFamily": "CalibreRegular",
+              "fontSize": 21,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#8B8B8B",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "paddingHorizontal": 2,
+              "paddingTop": 14,
+              "textAlign": "center",
+            },
+          ]
+        }
+      >
+        Last won
+      </Text>
+      <View
+        onLayout={[Function]}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "marginVertical": 10,
+            },
+          ]
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "rgba(96,202,142,1)",
+              "borderRadius": 32,
+              "height": 64,
+              "justifyContent": "center",
+              "marginTop": 10,
+              "opacity": 1,
+              "width": 480,
+            }
+          }
+          testID="view-machine-button"
+        >
+          <View
+            borderRadius={16}
+            colorScheme="rgba(128,229,173,1)"
+            height={32}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "rgba(128,229,173,1)",
+                  "borderRadius": 32,
+                  "height": 54,
+                  "justifyContent": "center",
+                  "width": 474,
+                },
+              ]
+            }
+            width={240}
+          >
+            <View
+              borderRadius={16}
+              colorScheme="rgba(114,213,158,1)"
+              height={32}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "rgba(114,213,158,1)",
+                    "borderRadius": 52,
+                    "height": 50,
+                    "justifyContent": "center",
+                    "marginTop": 8,
+                    "width": 474,
+                  },
+                ]
+              }
+              width={240}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                paddingTop={5}
+                size="XXSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 21,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingHorizontal": 2,
+                      "paddingTop": 10,
+                      "textAlign": "center",
+                    },
+                  ]
+                }
+              >
+                View machine
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

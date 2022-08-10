@@ -1,0 +1,7123 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component LeaderboardPreview renders correctly when top10 data is not available 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexBasis": 0,
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "space-around",
+        "marginTop": 40,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        },
+      ]
+    }
+    width={727.5}
+  >
+    <Image
+      bannerType="BACKDROP"
+      resizeMode="contain"
+      source={1}
+      style={
+        Array [
+          Object {
+            "height": 208.7608695652174,
+            "width": 727.5,
+          },
+        ]
+      }
+      width={727.5}
+    />
+    <Text
+      alignCenter={false}
+      allowFontScaling={false}
+      bannerType="BACKDROP"
+      color="#000000"
+      fontFamily="BOLD"
+      fontSize={22}
+      isUnderlined={false}
+      isUppercase={true}
+      maxFontSizeMultiplier={1.3}
+      size="BANNER_LARGE"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "CalibreBold",
+            "fontSize": 34.5,
+            "justifyContent": "center",
+            "textAlign": "left",
+            "textDecorationColor": "#000000",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "uppercase",
+          },
+          Object {
+            "color": "#FFFFFF",
+            "letterSpacing": 1.5,
+            "position": "absolute",
+          },
+        ]
+      }
+    >
+      Leaderboard
+    </Text>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#FFFFFF",
+            "borderBottomLeftRadius": 16,
+            "borderBottomRightRadius": 16,
+            "bottom": -100,
+            "height": 136,
+            "justifyContent": "center",
+            "opacity": 0.85,
+            "paddingTop": 20,
+            "position": "absolute",
+            "shadowColor": "rgba(53, 53, 53, 0.3)",
+            "shadowOffset": Object {
+              "height": 4,
+              "width": 4,
+            },
+            "shadowOpacity": 1,
+            "shadowRadius": 2,
+            "width": "75%",
+            "zIndex": -1,
+          },
+        ]
+      }
+      width={727.5}
+    >
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#000000"
+        fontFamily="SEMI BOLD"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Calibre-Semibold",
+              "fontSize": 24,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+          ]
+        }
+      >
+        Weekly
+      </Text>
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#000000"
+        fontFamily="REGULAR"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "CalibreRegular",
+              "fontSize": 21,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "space-between",
+          "marginVertical": 48,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "flexBasis": 0,
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "marginTop": 90,
+          },
+        ]
+      }
+    >
+      <View
+        backgroundColor="#F06B59"
+        borderColor="#F06B59"
+        borderWidth={12}
+        style={
+          Array [
+            Object {
+              "borderRadius": 12,
+            },
+          ]
+        }
+      >
+        <View
+          bdWidth={12}
+          isTop={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "height": 12,
+                "justifyContent": "space-around",
+                "paddingHorizontal": 4,
+                "position": "absolute",
+                "top": -12,
+                "width": "100%",
+              },
+            ]
+          }
+          width={null}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={12}
+          isBottom={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "bottom": -12,
+                "flexDirection": "row",
+                "height": 12,
+                "justifyContent": "space-around",
+                "paddingHorizontal": 4,
+                "position": "absolute",
+                "width": "100%",
+              },
+            ]
+          }
+          width={null}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={12}
+          isLeft={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": "100%",
+                "justifyContent": "space-around",
+                "left": -12,
+                "paddingVertical": 4,
+                "position": "absolute",
+                "width": 12,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={12}
+          isRight={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": "100%",
+                "justifyContent": "space-around",
+                "paddingVertical": 4,
+                "position": "absolute",
+                "right": -12,
+                "width": 12,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          left={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+          top={-10}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          right={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+          top={-10}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bottom={-10}
+          left={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bottom={-10}
+          right={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#353535",
+                "borderRadius": 8,
+                "width": 666,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#5F6EAF",
+                  "flexDirection": "row",
+                },
+              ]
+            }
+          >
+            <Image
+              source={1}
+              style={
+                Array [
+                  Object {
+                    "height": 96,
+                    "marginLeft": 33,
+                    "marginRight": 19.5,
+                    "marginVertical": 24,
+                    "width": 96,
+                  },
+                ]
+              }
+            />
+            <View
+              style={
+                Array [
+                  Object {
+                    "alignItems": "flex-start",
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                ]
+              }
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#000000"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="LARGE"
+                style={
+                  Array [
+                    Object {
+                      "color": "#000000",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 31.5,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#000000",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "color": "#FFFFFF",
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                Keep playing while we update the leaderboard!
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "marginVertical": 10,
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#E5E5E5",
+          "borderRadius": 80,
+          "height": 110,
+          "justifyContent": "center",
+          "marginTop": 40,
+          "opacity": 1,
+          "width": 320,
+        }
+      }
+      testID="section-button"
+    >
+      <View
+        borderRadius={40}
+        colorScheme="#FFFFFF"
+        height={55}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 80,
+              "height": 100,
+              "justifyContent": "center",
+              "width": 314,
+            },
+          ]
+        }
+        width={160}
+      >
+        <View
+          borderRadius={40}
+          colorScheme="#F9F9F9"
+          height={55}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#F9F9F9",
+                "borderRadius": 100,
+                "height": 96,
+                "justifyContent": "center",
+                "marginTop": 8,
+                "width": 314,
+              },
+            ]
+          }
+          width={160}
+        >
+          <Text
+            alignCenter={false}
+            allowFontScaling={true}
+            color="#000000"
+            fontFamily="MEDIUM"
+            isUnderlined={false}
+            isUppercase={false}
+            maxFontSizeMultiplier={1.3}
+            size="XSMALL"
+            style={
+              Array [
+                Object {
+                  "color": "#000000",
+                  "fontFamily": "Calibre-Medium",
+                  "fontSize": 24,
+                  "justifyContent": "center",
+                  "textAlign": "left",
+                  "textDecorationColor": "#000000",
+                  "textDecorationLine": "none",
+                  "textDecorationStyle": "solid",
+                  "textTransform": "none",
+                },
+              ]
+            }
+          >
+            View games
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Component LeaderboardPreview renders correctly when top10 is available and user is not in top 4 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexBasis": 0,
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "space-around",
+        "marginTop": 40,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        },
+      ]
+    }
+    width={727.5}
+  >
+    <Image
+      bannerType="BACKDROP"
+      resizeMode="contain"
+      source={1}
+      style={
+        Array [
+          Object {
+            "height": 208.7608695652174,
+            "width": 727.5,
+          },
+        ]
+      }
+      width={727.5}
+    />
+    <Text
+      alignCenter={false}
+      allowFontScaling={false}
+      bannerType="BACKDROP"
+      color="#000000"
+      fontFamily="BOLD"
+      fontSize={22}
+      isUnderlined={false}
+      isUppercase={true}
+      maxFontSizeMultiplier={1.3}
+      size="BANNER_LARGE"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "CalibreBold",
+            "fontSize": 34.5,
+            "justifyContent": "center",
+            "textAlign": "left",
+            "textDecorationColor": "#000000",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "uppercase",
+          },
+          Object {
+            "color": "#FFFFFF",
+            "letterSpacing": 1.5,
+            "position": "absolute",
+          },
+        ]
+      }
+    >
+      Leaderboard
+    </Text>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#FFFFFF",
+            "borderBottomLeftRadius": 16,
+            "borderBottomRightRadius": 16,
+            "bottom": -100,
+            "height": 136,
+            "justifyContent": "center",
+            "opacity": 0.85,
+            "paddingTop": 20,
+            "position": "absolute",
+            "shadowColor": "rgba(53, 53, 53, 0.3)",
+            "shadowOffset": Object {
+              "height": 4,
+              "width": 4,
+            },
+            "shadowOpacity": 1,
+            "shadowRadius": 2,
+            "width": "75%",
+            "zIndex": -1,
+          },
+        ]
+      }
+      width={727.5}
+    >
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#000000"
+        fontFamily="SEMI BOLD"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Calibre-Semibold",
+              "fontSize": 24,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+          ]
+        }
+      >
+        Weekly
+      </Text>
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#000000"
+        fontFamily="REGULAR"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "CalibreRegular",
+              "fontSize": 21,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+          ]
+        }
+      >
+        Last updated: 88d ago
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "space-between",
+          "marginVertical": 48,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "flexBasis": 0,
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "marginTop": 90,
+          },
+        ]
+      }
+    >
+      <View
+        backgroundColor="#F06B59"
+        borderColor="#F06B59"
+        borderWidth={12}
+        style={
+          Array [
+            Object {
+              "borderRadius": 12,
+            },
+          ]
+        }
+      >
+        <View
+          bdWidth={12}
+          isTop={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "height": 12,
+                "justifyContent": "space-around",
+                "paddingHorizontal": 4,
+                "position": "absolute",
+                "top": -12,
+                "width": "100%",
+              },
+            ]
+          }
+          width={null}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={12}
+          isBottom={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "bottom": -12,
+                "flexDirection": "row",
+                "height": 12,
+                "justifyContent": "space-around",
+                "paddingHorizontal": 4,
+                "position": "absolute",
+                "width": "100%",
+              },
+            ]
+          }
+          width={null}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={12}
+          isLeft={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": "100%",
+                "justifyContent": "space-around",
+                "left": -12,
+                "paddingVertical": 4,
+                "position": "absolute",
+                "width": 12,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={12}
+          isRight={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": "100%",
+                "justifyContent": "space-around",
+                "paddingVertical": 4,
+                "position": "absolute",
+                "right": -12,
+                "width": 12,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          left={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+          top={-10}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          right={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+          top={-10}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bottom={-10}
+          left={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bottom={-10}
+          right={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#353535",
+                "borderRadius": 8,
+                "width": 666,
+              },
+            ]
+          }
+        >
+          <View
+            isCurrentPlayer={false}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#353535",
+                  "borderRadius": 4,
+                  "flexDirection": "row",
+                  "height": 80,
+                  "width": 666,
+                },
+              ]
+            }
+          >
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#222222",
+                    "borderBottomLeftRadius": 0,
+                    "borderTopLeftRadius": 4,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "center",
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={true}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XXSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "CalibreBold",
+                      "fontSize": 21,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                0
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              leftAlign={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-start",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="SEMI BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Semibold",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                Player0
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 4,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-end",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={true}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                54321
+              </Text>
+              <Image
+                source={1}
+                style={
+                  Array [
+                    Object {
+                      "height": 36,
+                      "marginLeft": 12,
+                      "marginRight": 18,
+                      "width": 36,
+                    },
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            isCurrentPlayer={false}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#353535",
+                  "borderRadius": 4,
+                  "flexDirection": "row",
+                  "height": 80,
+                  "width": 666,
+                },
+              ]
+            }
+          >
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#222222",
+                    "borderBottomLeftRadius": 0,
+                    "borderTopLeftRadius": 0,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "center",
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XXSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "CalibreBold",
+                      "fontSize": 21,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                1
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              leftAlign={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-start",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="SEMI BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Semibold",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                Player1
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-end",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                54322
+              </Text>
+              <Image
+                source={1}
+                style={
+                  Array [
+                    Object {
+                      "height": 36,
+                      "marginLeft": 12,
+                      "marginRight": 18,
+                      "width": 36,
+                    },
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            isCurrentPlayer={false}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#353535",
+                  "borderRadius": 4,
+                  "flexDirection": "row",
+                  "height": 80,
+                  "width": 666,
+                },
+              ]
+            }
+          >
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#222222",
+                    "borderBottomLeftRadius": 0,
+                    "borderTopLeftRadius": 0,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "center",
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XXSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "CalibreBold",
+                      "fontSize": 21,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                2
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              leftAlign={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-start",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="SEMI BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Semibold",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                Player2
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-end",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                54323
+              </Text>
+              <Image
+                source={1}
+                style={
+                  Array [
+                    Object {
+                      "height": 36,
+                      "marginLeft": 12,
+                      "marginRight": 18,
+                      "width": 36,
+                    },
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            isCurrentPlayer={false}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#353535",
+                  "borderRadius": 4,
+                  "flexDirection": "row",
+                  "height": 80,
+                  "width": 666,
+                },
+              ]
+            }
+          >
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#222222",
+                    "borderBottomLeftRadius": 4,
+                    "borderTopLeftRadius": 0,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "center",
+                  },
+                ]
+              }
+              withBorderBottomRadius={true}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XXSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "CalibreBold",
+                      "fontSize": 21,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                45
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              leftAlign={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-start",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="SEMI BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Semibold",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                PlayerOne
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 4,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-end",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+              withBorderBottomRadius={true}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                54321
+              </Text>
+              <Image
+                source={1}
+                style={
+                  Array [
+                    Object {
+                      "height": 36,
+                      "marginLeft": 12,
+                      "marginRight": 18,
+                      "width": 36,
+                    },
+                  ]
+                }
+              />
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "marginVertical": 10,
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#E5E5E5",
+          "borderRadius": 80,
+          "height": 110,
+          "justifyContent": "center",
+          "marginTop": 40,
+          "opacity": 1,
+          "width": 320,
+        }
+      }
+      testID="section-button"
+    >
+      <View
+        borderRadius={40}
+        colorScheme="#FFFFFF"
+        height={55}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 80,
+              "height": 100,
+              "justifyContent": "center",
+              "width": 314,
+            },
+          ]
+        }
+        width={160}
+      >
+        <View
+          borderRadius={40}
+          colorScheme="#F9F9F9"
+          height={55}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#F9F9F9",
+                "borderRadius": 100,
+                "height": 96,
+                "justifyContent": "center",
+                "marginTop": 8,
+                "width": 314,
+              },
+            ]
+          }
+          width={160}
+        >
+          <Text
+            alignCenter={false}
+            allowFontScaling={true}
+            color="#000000"
+            fontFamily="MEDIUM"
+            isUnderlined={false}
+            isUppercase={false}
+            maxFontSizeMultiplier={1.3}
+            size="XSMALL"
+            style={
+              Array [
+                Object {
+                  "color": "#000000",
+                  "fontFamily": "Calibre-Medium",
+                  "fontSize": 24,
+                  "justifyContent": "center",
+                  "textAlign": "left",
+                  "textDecorationColor": "#000000",
+                  "textDecorationLine": "none",
+                  "textDecorationStyle": "solid",
+                  "textTransform": "none",
+                },
+              ]
+            }
+          >
+            View full board
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Component LeaderboardPreview renders correctly when user is in the top 4 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexBasis": 0,
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "space-around",
+        "marginTop": 40,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        },
+      ]
+    }
+    width={727.5}
+  >
+    <Image
+      bannerType="BACKDROP"
+      resizeMode="contain"
+      source={1}
+      style={
+        Array [
+          Object {
+            "height": 208.7608695652174,
+            "width": 727.5,
+          },
+        ]
+      }
+      width={727.5}
+    />
+    <Text
+      alignCenter={false}
+      allowFontScaling={false}
+      bannerType="BACKDROP"
+      color="#000000"
+      fontFamily="BOLD"
+      fontSize={22}
+      isUnderlined={false}
+      isUppercase={true}
+      maxFontSizeMultiplier={1.3}
+      size="BANNER_LARGE"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "CalibreBold",
+            "fontSize": 34.5,
+            "justifyContent": "center",
+            "textAlign": "left",
+            "textDecorationColor": "#000000",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "uppercase",
+          },
+          Object {
+            "color": "#FFFFFF",
+            "letterSpacing": 1.5,
+            "position": "absolute",
+          },
+        ]
+      }
+    >
+      Leaderboard
+    </Text>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#FFFFFF",
+            "borderBottomLeftRadius": 16,
+            "borderBottomRightRadius": 16,
+            "bottom": -100,
+            "height": 136,
+            "justifyContent": "center",
+            "opacity": 0.85,
+            "paddingTop": 20,
+            "position": "absolute",
+            "shadowColor": "rgba(53, 53, 53, 0.3)",
+            "shadowOffset": Object {
+              "height": 4,
+              "width": 4,
+            },
+            "shadowOpacity": 1,
+            "shadowRadius": 2,
+            "width": "75%",
+            "zIndex": -1,
+          },
+        ]
+      }
+      width={727.5}
+    >
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#000000"
+        fontFamily="SEMI BOLD"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Calibre-Semibold",
+              "fontSize": 24,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+          ]
+        }
+      >
+        Weekly
+      </Text>
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#000000"
+        fontFamily="REGULAR"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "CalibreRegular",
+              "fontSize": 21,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+          ]
+        }
+      >
+        Last updated: 88d ago
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "space-between",
+          "marginVertical": 48,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "flexBasis": 0,
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "marginTop": 90,
+          },
+        ]
+      }
+    >
+      <View
+        backgroundColor="#F06B59"
+        borderColor="#F06B59"
+        borderWidth={12}
+        style={
+          Array [
+            Object {
+              "borderRadius": 12,
+            },
+          ]
+        }
+      >
+        <View
+          bdWidth={12}
+          isTop={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "height": 12,
+                "justifyContent": "space-around",
+                "paddingHorizontal": 4,
+                "position": "absolute",
+                "top": -12,
+                "width": "100%",
+              },
+            ]
+          }
+          width={null}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={12}
+          isBottom={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "bottom": -12,
+                "flexDirection": "row",
+                "height": 12,
+                "justifyContent": "space-around",
+                "paddingHorizontal": 4,
+                "position": "absolute",
+                "width": "100%",
+              },
+            ]
+          }
+          width={null}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={12}
+          isLeft={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": "100%",
+                "justifyContent": "space-around",
+                "left": -12,
+                "paddingVertical": 4,
+                "position": "absolute",
+                "width": 12,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={12}
+          isRight={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": "100%",
+                "justifyContent": "space-around",
+                "paddingVertical": 4,
+                "position": "absolute",
+                "right": -12,
+                "width": 12,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          left={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+          top={-10}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          right={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+          top={-10}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bottom={-10}
+          left={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bottom={-10}
+          right={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#353535",
+                "borderRadius": 8,
+                "width": 666,
+              },
+            ]
+          }
+        >
+          <View
+            isCurrentPlayer={false}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#353535",
+                  "borderRadius": 4,
+                  "flexDirection": "row",
+                  "height": 80,
+                  "width": 666,
+                },
+              ]
+            }
+          >
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#222222",
+                    "borderBottomLeftRadius": 0,
+                    "borderTopLeftRadius": 4,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "center",
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={true}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XXSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "CalibreBold",
+                      "fontSize": 21,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                0
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              leftAlign={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-start",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="SEMI BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Semibold",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                Player0
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 4,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-end",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={true}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                54321
+              </Text>
+              <Image
+                source={1}
+                style={
+                  Array [
+                    Object {
+                      "height": 36,
+                      "marginLeft": 12,
+                      "marginRight": 18,
+                      "width": 36,
+                    },
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            isCurrentPlayer={false}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#353535",
+                  "borderRadius": 4,
+                  "flexDirection": "row",
+                  "height": 80,
+                  "width": 666,
+                },
+              ]
+            }
+          >
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#222222",
+                    "borderBottomLeftRadius": 0,
+                    "borderTopLeftRadius": 0,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "center",
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XXSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "CalibreBold",
+                      "fontSize": 21,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                1
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              leftAlign={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-start",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="SEMI BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Semibold",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                PlayerOne
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-end",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                54321
+              </Text>
+              <Image
+                source={1}
+                style={
+                  Array [
+                    Object {
+                      "height": 36,
+                      "marginLeft": 12,
+                      "marginRight": 18,
+                      "width": 36,
+                    },
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            isCurrentPlayer={false}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#353535",
+                  "borderRadius": 4,
+                  "flexDirection": "row",
+                  "height": 80,
+                  "width": 666,
+                },
+              ]
+            }
+          >
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#222222",
+                    "borderBottomLeftRadius": 0,
+                    "borderTopLeftRadius": 0,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "center",
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XXSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "CalibreBold",
+                      "fontSize": 21,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                2
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              leftAlign={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-start",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="SEMI BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Semibold",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                Player2
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-end",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                54323
+              </Text>
+              <Image
+                source={1}
+                style={
+                  Array [
+                    Object {
+                      "height": 36,
+                      "marginLeft": 12,
+                      "marginRight": 18,
+                      "width": 36,
+                    },
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            isCurrentPlayer={false}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#353535",
+                  "borderRadius": 4,
+                  "flexDirection": "row",
+                  "height": 80,
+                  "width": 666,
+                },
+              ]
+            }
+          >
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#222222",
+                    "borderBottomLeftRadius": 4,
+                    "borderTopLeftRadius": 0,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "center",
+                  },
+                ]
+              }
+              withBorderBottomRadius={true}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XXSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "CalibreBold",
+                      "fontSize": 21,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                1
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              leftAlign={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-start",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="SEMI BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Semibold",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                PlayerOne
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 4,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-end",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+              withBorderBottomRadius={true}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                54321
+              </Text>
+              <Image
+                source={1}
+                style={
+                  Array [
+                    Object {
+                      "height": 36,
+                      "marginLeft": 12,
+                      "marginRight": 18,
+                      "width": 36,
+                    },
+                  ]
+                }
+              />
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "marginVertical": 10,
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#E5E5E5",
+          "borderRadius": 80,
+          "height": 110,
+          "justifyContent": "center",
+          "marginTop": 40,
+          "opacity": 1,
+          "width": 320,
+        }
+      }
+      testID="section-button"
+    >
+      <View
+        borderRadius={40}
+        colorScheme="#FFFFFF"
+        height={55}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 80,
+              "height": 100,
+              "justifyContent": "center",
+              "width": 314,
+            },
+          ]
+        }
+        width={160}
+      >
+        <View
+          borderRadius={40}
+          colorScheme="#F9F9F9"
+          height={55}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#F9F9F9",
+                "borderRadius": 100,
+                "height": 96,
+                "justifyContent": "center",
+                "marginTop": 8,
+                "width": 314,
+              },
+            ]
+          }
+          width={160}
+        >
+          <Text
+            alignCenter={false}
+            allowFontScaling={true}
+            color="#000000"
+            fontFamily="MEDIUM"
+            isUnderlined={false}
+            isUppercase={false}
+            maxFontSizeMultiplier={1.3}
+            size="XSMALL"
+            style={
+              Array [
+                Object {
+                  "color": "#000000",
+                  "fontFamily": "Calibre-Medium",
+                  "fontSize": 24,
+                  "justifyContent": "center",
+                  "textAlign": "left",
+                  "textDecorationColor": "#000000",
+                  "textDecorationLine": "none",
+                  "textDecorationStyle": "solid",
+                  "textTransform": "none",
+                },
+              ]
+            }
+          >
+            View full board
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Component LeaderboardPreview renders correctly when user is not on leaderboard 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexBasis": 0,
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "space-around",
+        "marginTop": 40,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        },
+      ]
+    }
+    width={727.5}
+  >
+    <Image
+      bannerType="BACKDROP"
+      resizeMode="contain"
+      source={1}
+      style={
+        Array [
+          Object {
+            "height": 208.7608695652174,
+            "width": 727.5,
+          },
+        ]
+      }
+      width={727.5}
+    />
+    <Text
+      alignCenter={false}
+      allowFontScaling={false}
+      bannerType="BACKDROP"
+      color="#000000"
+      fontFamily="BOLD"
+      fontSize={22}
+      isUnderlined={false}
+      isUppercase={true}
+      maxFontSizeMultiplier={1.3}
+      size="BANNER_LARGE"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "CalibreBold",
+            "fontSize": 34.5,
+            "justifyContent": "center",
+            "textAlign": "left",
+            "textDecorationColor": "#000000",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "uppercase",
+          },
+          Object {
+            "color": "#FFFFFF",
+            "letterSpacing": 1.5,
+            "position": "absolute",
+          },
+        ]
+      }
+    >
+      Leaderboard
+    </Text>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#FFFFFF",
+            "borderBottomLeftRadius": 16,
+            "borderBottomRightRadius": 16,
+            "bottom": -100,
+            "height": 136,
+            "justifyContent": "center",
+            "opacity": 0.85,
+            "paddingTop": 20,
+            "position": "absolute",
+            "shadowColor": "rgba(53, 53, 53, 0.3)",
+            "shadowOffset": Object {
+              "height": 4,
+              "width": 4,
+            },
+            "shadowOpacity": 1,
+            "shadowRadius": 2,
+            "width": "75%",
+            "zIndex": -1,
+          },
+        ]
+      }
+      width={727.5}
+    >
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#000000"
+        fontFamily="SEMI BOLD"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Calibre-Semibold",
+              "fontSize": 24,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+          ]
+        }
+      >
+        Weekly
+      </Text>
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#000000"
+        fontFamily="REGULAR"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "CalibreRegular",
+              "fontSize": 21,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+          ]
+        }
+      >
+        Last updated: 88d ago
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "space-between",
+          "marginVertical": 48,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "flexBasis": 0,
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "marginTop": 90,
+          },
+        ]
+      }
+    >
+      <View
+        backgroundColor="#F06B59"
+        borderColor="#F06B59"
+        borderWidth={12}
+        style={
+          Array [
+            Object {
+              "borderRadius": 12,
+            },
+          ]
+        }
+      >
+        <View
+          bdWidth={12}
+          isTop={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "height": 12,
+                "justifyContent": "space-around",
+                "paddingHorizontal": 4,
+                "position": "absolute",
+                "top": -12,
+                "width": "100%",
+              },
+            ]
+          }
+          width={null}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={12}
+          isBottom={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "bottom": -12,
+                "flexDirection": "row",
+                "height": 12,
+                "justifyContent": "space-around",
+                "paddingHorizontal": 4,
+                "position": "absolute",
+                "width": "100%",
+              },
+            ]
+          }
+          width={null}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={12}
+          isLeft={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": "100%",
+                "justifyContent": "space-around",
+                "left": -12,
+                "paddingVertical": 4,
+                "position": "absolute",
+                "width": 12,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bdWidth={12}
+          isRight={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": "100%",
+                "justifyContent": "space-around",
+                "paddingVertical": 4,
+                "position": "absolute",
+                "right": -12,
+                "width": 12,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          left={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+          top={-10}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          right={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+          top={-10}
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bottom={-10}
+          left={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          bottom={-10}
+          right={-10}
+          size={12}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 24,
+                "justifyContent": "center",
+                "position": "absolute",
+                "width": 24,
+              },
+            ]
+          }
+        >
+          <View
+            dotColor="#FFF3A3"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FFF3A3",
+                  "borderRadius": 3,
+                  "height": 6,
+                  "width": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#353535",
+                "borderRadius": 8,
+                "width": 666,
+              },
+            ]
+          }
+        >
+          <View
+            isCurrentPlayer={false}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#353535",
+                  "borderRadius": 4,
+                  "flexDirection": "row",
+                  "height": 80,
+                  "width": 666,
+                },
+              ]
+            }
+          >
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#222222",
+                    "borderBottomLeftRadius": 0,
+                    "borderTopLeftRadius": 4,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "center",
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={true}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XXSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "CalibreBold",
+                      "fontSize": 21,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                0
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              leftAlign={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-start",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="SEMI BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Semibold",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                Player0
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 4,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-end",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={true}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                54321
+              </Text>
+              <Image
+                source={1}
+                style={
+                  Array [
+                    Object {
+                      "height": 36,
+                      "marginLeft": 12,
+                      "marginRight": 18,
+                      "width": 36,
+                    },
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            isCurrentPlayer={false}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#353535",
+                  "borderRadius": 4,
+                  "flexDirection": "row",
+                  "height": 80,
+                  "width": 666,
+                },
+              ]
+            }
+          >
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#222222",
+                    "borderBottomLeftRadius": 0,
+                    "borderTopLeftRadius": 0,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "center",
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XXSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "CalibreBold",
+                      "fontSize": 21,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                1
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              leftAlign={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-start",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="SEMI BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Semibold",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                Player1
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-end",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                54322
+              </Text>
+              <Image
+                source={1}
+                style={
+                  Array [
+                    Object {
+                      "height": 36,
+                      "marginLeft": 12,
+                      "marginRight": 18,
+                      "width": 36,
+                    },
+                  ]
+                }
+              />
+            </View>
+          </View>
+          <View
+            isCurrentPlayer={false}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#353535",
+                  "borderRadius": 4,
+                  "flexDirection": "row",
+                  "height": 80,
+                  "width": 666,
+                },
+              ]
+            }
+          >
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#222222",
+                    "borderBottomLeftRadius": 0,
+                    "borderTopLeftRadius": 0,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "center",
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XXSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "CalibreBold",
+                      "fontSize": 21,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                2
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              leftAlign={true}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-start",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="SEMI BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Semibold",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                Player2
+              </Text>
+            </View>
+            <View
+              isCurrentPlayer={false}
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#353535",
+                    "borderBottomRightRadius": 0,
+                    "borderTopRightRadius": 0,
+                    "flexBasis": 0,
+                    "flexDirection": "row",
+                    "flexGrow": 2,
+                    "flexShrink": 1,
+                    "height": 80,
+                    "justifyContent": "flex-end",
+                    "paddingLeft": 15,
+                  },
+                ]
+              }
+              withBorderBottomRadius={false}
+              withBorderTopRadius={false}
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "paddingTop": 20,
+                    },
+                  ]
+                }
+              >
+                54323
+              </Text>
+              <Image
+                source={1}
+                style={
+                  Array [
+                    Object {
+                      "height": 36,
+                      "marginLeft": 12,
+                      "marginRight": 18,
+                      "width": 36,
+                    },
+                  ]
+                }
+              />
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "marginVertical": 10,
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#E5E5E5",
+          "borderRadius": 80,
+          "height": 110,
+          "justifyContent": "center",
+          "marginTop": 40,
+          "opacity": 1,
+          "width": 320,
+        }
+      }
+      testID="section-button"
+    >
+      <View
+        borderRadius={40}
+        colorScheme="#FFFFFF"
+        height={55}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 80,
+              "height": 100,
+              "justifyContent": "center",
+              "width": 314,
+            },
+          ]
+        }
+        width={160}
+      >
+        <View
+          borderRadius={40}
+          colorScheme="#F9F9F9"
+          height={55}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#F9F9F9",
+                "borderRadius": 100,
+                "height": 96,
+                "justifyContent": "center",
+                "marginTop": 8,
+                "width": 314,
+              },
+            ]
+          }
+          width={160}
+        >
+          <Text
+            alignCenter={false}
+            allowFontScaling={true}
+            color="#000000"
+            fontFamily="MEDIUM"
+            isUnderlined={false}
+            isUppercase={false}
+            maxFontSizeMultiplier={1.3}
+            size="XSMALL"
+            style={
+              Array [
+                Object {
+                  "color": "#000000",
+                  "fontFamily": "Calibre-Medium",
+                  "fontSize": 24,
+                  "justifyContent": "center",
+                  "textAlign": "left",
+                  "textDecorationColor": "#000000",
+                  "textDecorationLine": "none",
+                  "textDecorationStyle": "solid",
+                  "textTransform": "none",
+                },
+              ]
+            }
+          >
+            View full board
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

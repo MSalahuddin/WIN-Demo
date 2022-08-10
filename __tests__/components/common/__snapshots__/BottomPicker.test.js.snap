@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component BottomPicker renders correctly 1`] = `
+<View>
+  <RCTPicker
+    items={
+      Array [
+        Object {
+          "label": "foo",
+          "textColor": undefined,
+          "value": "foo",
+        },
+        Object {
+          "label": "bar",
+          "textColor": undefined,
+          "value": "bar",
+        },
+      ]
+    }
+    onChange={[Function]}
+    selectedIndex={0}
+    style={
+      Array [
+        Object {
+          "height": 216,
+        },
+        undefined,
+      ]
+    }
+    testID="bottom-picker-container"
+  />
+</View>
+`;

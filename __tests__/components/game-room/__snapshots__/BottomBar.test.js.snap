@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component BottomNavigator renders regular BottomNavigator correctly 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "marginBottom": 10,
+        "marginTop": 10,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "width": "100%",
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      hitSlop={
+        Object {
+          "bottom": 12,
+          "left": 12,
+          "right": 12,
+          "top": 12,
+        }
+      }
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "marginBottom": 0,
+          "marginLeft": 0,
+          "marginRight": 0,
+          "marginTop": 0,
+          "opacity": 1,
+        }
+      }
+      testID="icon-button"
+    >
+      <Image
+        opacity={1}
+        resizeMode="contain"
+        size={45}
+        source={1}
+        style={
+          Array [
+            Object {
+              "height": 67.5,
+              "width": 67.5,
+            },
+          ]
+        }
+      />
+    </View>
+  </View>
+</RCTSafeAreaView>
+`;

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>986749455696-gvp4q0bkjkh5fdkciaf8gs5c9qeb58hh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAG08xExY-lo-f5pdIbU9RAYwnedJ3pVvQ</string>
+	<key>BUNDLE_ID</key>
+	<string>com.playtertainment.ww.stg</string>
+	<key>CLIENT_ID</key>
+	<string>986749455696-ju3uldjjaeolmq06glja31rav9dp308p.apps.googleusercontent.com</string>
+	<key>DATABASE_URL</key>
+	<string>https://winner-winner-2020.firebaseio.com</string>
+	<key>GCM_SENDER_ID</key>
+	<string>986749455696</string>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:986749455696:ios:8894d0475325ec3ccb3055</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>PROJECT_ID</key>
+	<string>winner-winner-2020</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.986749455696-ju3uldjjaeolmq06glja31rav9dp308p</string>
+	<key>STORAGE_BUCKET</key>
+	<string>winner-winner-2020.appspot.com</string>
+	<key>im.getsocial.sdk.Runtime</key>
+	<string>REACTNATIVE</string>
+	<key>im.getsocial.sdk.WrapperVersion</key>
+	<string>0.3.2</string>
+</dict>
+</plist>

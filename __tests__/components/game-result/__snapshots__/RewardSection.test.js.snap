@@ -1,0 +1,957 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component RewardSection renders correctly when user is logged in 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 380,
+        "justifyContent": "center",
+        "marginTop": -100,
+      },
+    ]
+  }
+>
+  <Text
+    alignCenter={false}
+    allowFontScaling={true}
+    color="#FFFFFF"
+    fontFamily="BOLD ITALIC"
+    isUnderlined={false}
+    isUppercase={false}
+    maxFontSizeMultiplier={1.3}
+    size="SMALL"
+    style={
+      Array [
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "CalibreBoldItalic",
+          "fontSize": 27,
+          "justifyContent": "center",
+          "textAlign": "left",
+          "textDecorationColor": "#FFFFFF",
+          "textDecorationLine": "none",
+          "textDecorationStyle": "solid",
+          "textTransform": "none",
+        },
+      ]
+    }
+  >
+    Pick your reward:
+  </Text>
+  <RCTScrollView
+    activeAnimationOptions={null}
+    activeAnimationType="timing"
+    activeSlideAlignment="center"
+    activeSlideOffset={20}
+    apparitionDelay={0}
+    automaticallyAdjustContentInsets={false}
+    autoplay={false}
+    autoplayDelay={1000}
+    autoplayInterval={3000}
+    callbackOffsetMargin={5}
+    containerCustomStyle={
+      Object {
+        "height": 320,
+      }
+    }
+    contentContainerCustomStyle={Object {}}
+    contentContainerStyle={
+      Array [
+        Object {
+          "paddingLeft": 262.5,
+          "paddingRight": 262.5,
+        },
+        Object {},
+      ]
+    }
+    data={
+      Array [
+        Object {
+          "prizeImage": "",
+          "prizeName": "test",
+          "type": "PRIZE",
+        },
+        Object {
+          "prizeName": "",
+          "ticketsValue": 1,
+          "type": "TICKETS",
+        },
+      ]
+    }
+    decelerationRate="fast"
+    directionalLockEnabled={true}
+    enableMomentum={false}
+    enableSnap={true}
+    firstItem={0}
+    forwardedRef={[Function]}
+    hasParallaxImages={false}
+    horizontal={true}
+    inactiveSlideOpacity={0.7}
+    inactiveSlideScale={1}
+    inactiveSlideShift={0}
+    inverted={false}
+    itemWidth={225}
+    layout="default"
+    lockScrollTimeoutDuration={1000}
+    lockScrollWhileSnapping={false}
+    loop={false}
+    loopClonesPerSide={3}
+    onLayout={[Function]}
+    onResponderRelease={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    onSnapToItem={[Function]}
+    onStartShouldSetResponderCapture={[Function]}
+    onTouchEnd={[Function]}
+    onTouchStart={[Function]}
+    overScrollMode="never"
+    pinchGestureEnabled={false}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEnabled={true}
+    scrollEventThrottle={1}
+    scrollsToTop={false}
+    shouldOptimizeUpdates={true}
+    showsHorizontalScrollIndicator={false}
+    showsVerticalScrollIndicator={false}
+    slideStyle={Object {}}
+    sliderWidth={750}
+    style={
+      Object {
+        "flexDirection": "row",
+        "height": 320,
+        "opacity": 0,
+        "width": 750,
+      }
+    }
+    swipeThreshold={20}
+    useScrollView={true}
+    vertical={false}
+  >
+    <View>
+      <View
+        pointerEvents="box-none"
+        style={
+          Object {
+            "opacity": 1,
+            "width": 225,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "column",
+              "height": 304,
+              "justifyContent": "flex-end",
+              "opacity": 1,
+              "width": 225,
+            }
+          }
+          testID="reward-button"
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#FFFFFF",
+                  "borderRadius": 8,
+                  "height": 210,
+                  "justifyContent": "center",
+                  "width": 210,
+                },
+              ]
+            }
+          >
+            <View
+              borderColor="#5EC98C"
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#FFFFFF",
+                    "borderColor": "#5EC98C",
+                    "borderRadius": 8,
+                    "borderWidth": 3,
+                    "flexDirection": "column",
+                    "height": 200,
+                    "justifyContent": "flex-start",
+                    "width": 202.5,
+                  },
+                ]
+              }
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "alignItems": "center",
+                      "height": 110,
+                      "justifyContent": "center",
+                      "marginHorizontal": 6,
+                      "marginTop": 100,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  alignCenter={false}
+                  allowFontScaling={true}
+                  color="#5EC98C"
+                  fontFamily="BOLD ITALIC"
+                  isUnderlined={false}
+                  isUppercase={true}
+                  maxFontSizeMultiplier={1.3}
+                  size="XXSMALL"
+                  style={
+                    Array [
+                      Object {
+                        "color": "#5EC98C",
+                        "fontFamily": "CalibreBoldItalic",
+                        "fontSize": 21,
+                        "justifyContent": "center",
+                        "textAlign": "left",
+                        "textDecorationColor": "#5EC98C",
+                        "textDecorationLine": "none",
+                        "textDecorationStyle": "solid",
+                        "textTransform": "uppercase",
+                      },
+                    ]
+                  }
+                >
+                  PRIZE
+                </Text>
+                <Text
+                  alignCenter={true}
+                  allowFontScaling={true}
+                  color="#5EC98C"
+                  fontFamily="MEDIUM"
+                  isUnderlined={false}
+                  isUppercase={false}
+                  maxFontSizeMultiplier={1.3}
+                  numberOfLines={1}
+                  size="XXXXSMALL"
+                  style={
+                    Array [
+                      Object {
+                        "color": "#5EC98C",
+                        "fontFamily": "Calibre-Medium",
+                        "fontSize": 18,
+                        "justifyContent": "center",
+                        "textAlign": "center",
+                        "textDecorationColor": "#5EC98C",
+                        "textDecorationLine": "none",
+                        "textDecorationStyle": "solid",
+                        "textTransform": "none",
+                      },
+                    ]
+                  }
+                >
+                  test
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#FFFFFF",
+                  "borderRadius": 63,
+                  "height": 126,
+                  "justifyContent": "center",
+                  "position": "absolute",
+                  "top": 30,
+                  "width": 126,
+                },
+              ]
+            }
+          >
+            <View
+              borderColor="#5EC98C"
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#FFFFFF",
+                    "borderColor": "#5EC98C",
+                    "borderRadius": 60,
+                    "borderWidth": 3,
+                    "height": 120,
+                    "justifyContent": "center",
+                    "overflow": "hidden",
+                    "width": 120,
+                  },
+                ]
+              }
+              type="PRIZE"
+            >
+              <Image
+                resizeMode="contain"
+                source={
+                  Object {
+                    "uri": "",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 225,
+                      "width": 150,
+                    },
+                  ]
+                }
+                type="PRIZE"
+              />
+            </View>
+            <View
+              bgColor="#5EC98C"
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#5EC98C",
+                    "borderColor": "#5EC98C",
+                    "borderRadius": 22.5,
+                    "bottom": -20,
+                    "justifyContent": "center",
+                    "maxWidth": 120,
+                    "minWidth": 60,
+                    "paddingHorizontal": 7.5,
+                    "paddingTop": 10,
+                    "position": "absolute",
+                  },
+                ]
+              }
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                marginBottom={0}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                  ]
+                }
+              >
+                x1
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        pointerEvents="box-none"
+        style={
+          Object {
+            "opacity": 0.7,
+            "width": 225,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "column",
+              "height": 304,
+              "justifyContent": "flex-end",
+              "opacity": 1,
+              "width": 225,
+            }
+          }
+          testID="reward-button"
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#FFFFFF",
+                  "borderRadius": 8,
+                  "height": 210,
+                  "justifyContent": "center",
+                  "width": 210,
+                },
+              ]
+            }
+          >
+            <View
+              borderColor="#FFFFFF"
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#FFFFFF",
+                    "borderColor": "#FFFFFF",
+                    "borderRadius": 8,
+                    "borderWidth": 3,
+                    "flexDirection": "column",
+                    "height": 200,
+                    "justifyContent": "flex-start",
+                    "width": 202.5,
+                  },
+                ]
+              }
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "alignItems": "center",
+                      "height": 110,
+                      "justifyContent": "center",
+                      "marginHorizontal": 6,
+                      "marginTop": 100,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  alignCenter={false}
+                  allowFontScaling={true}
+                  color="#7C89D8"
+                  fontFamily="BOLD ITALIC"
+                  isUnderlined={false}
+                  isUppercase={true}
+                  maxFontSizeMultiplier={1.3}
+                  size="XXSMALL"
+                  style={
+                    Array [
+                      Object {
+                        "color": "#7C89D8",
+                        "fontFamily": "CalibreBoldItalic",
+                        "fontSize": 21,
+                        "justifyContent": "center",
+                        "textAlign": "left",
+                        "textDecorationColor": "#7C89D8",
+                        "textDecorationLine": "none",
+                        "textDecorationStyle": "solid",
+                        "textTransform": "uppercase",
+                      },
+                    ]
+                  }
+                >
+                  TICKETS
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#FFFFFF",
+                  "borderRadius": 63,
+                  "height": 126,
+                  "justifyContent": "center",
+                  "position": "absolute",
+                  "top": 30,
+                  "width": 126,
+                },
+              ]
+            }
+          >
+            <View
+              borderColor="#FFFFFF"
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#C4D1FA",
+                    "borderColor": "#FFFFFF",
+                    "borderRadius": 60,
+                    "borderWidth": 3,
+                    "height": 120,
+                    "justifyContent": "center",
+                    "overflow": "hidden",
+                    "width": 120,
+                  },
+                ]
+              }
+              type="TICKETS"
+            >
+              <Image
+                resizeMode="contain"
+                source={1}
+                style={
+                  Array [
+                    Object {
+                      "height": 72,
+                      "width": 72,
+                    },
+                  ]
+                }
+                type="TICKETS"
+              />
+            </View>
+            <View
+              bgColor="#7C89D8"
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#7C89D8",
+                    "borderColor": "#7C89D8",
+                    "borderRadius": 22.5,
+                    "bottom": -20,
+                    "justifyContent": "center",
+                    "maxWidth": 120,
+                    "minWidth": 60,
+                    "paddingHorizontal": 7.5,
+                    "paddingTop": 10,
+                    "position": "absolute",
+                  },
+                ]
+              }
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                marginBottom={0}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                  ]
+                }
+              >
+                x1
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;
+
+exports[`Component RewardSection renders correctly when user is not logged in 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "height": 380,
+        "justifyContent": "center",
+        "marginTop": -100,
+      },
+    ]
+  }
+>
+  <Text
+    alignCenter={false}
+    allowFontScaling={true}
+    color="#FFFFFF"
+    fontFamily="BOLD ITALIC"
+    isUnderlined={false}
+    isUppercase={false}
+    maxFontSizeMultiplier={1.3}
+    size="SMALL"
+    style={
+      Array [
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "CalibreBoldItalic",
+          "fontSize": 27,
+          "justifyContent": "center",
+          "textAlign": "left",
+          "textDecorationColor": "#FFFFFF",
+          "textDecorationLine": "none",
+          "textDecorationStyle": "solid",
+          "textTransform": "none",
+        },
+      ]
+    }
+  >
+    Pick your reward:
+  </Text>
+  <RCTScrollView
+    activeAnimationOptions={null}
+    activeAnimationType="timing"
+    activeSlideAlignment="center"
+    activeSlideOffset={20}
+    apparitionDelay={0}
+    automaticallyAdjustContentInsets={false}
+    autoplay={false}
+    autoplayDelay={1000}
+    autoplayInterval={3000}
+    callbackOffsetMargin={5}
+    containerCustomStyle={
+      Object {
+        "height": 320,
+      }
+    }
+    contentContainerCustomStyle={Object {}}
+    contentContainerStyle={
+      Array [
+        Object {
+          "paddingLeft": 262.5,
+          "paddingRight": 262.5,
+        },
+        Object {},
+      ]
+    }
+    data={
+      Array [
+        Object {
+          "prizeImage": "",
+          "prizeName": "test",
+          "type": "PRIZE",
+        },
+      ]
+    }
+    decelerationRate="fast"
+    directionalLockEnabled={true}
+    enableMomentum={false}
+    enableSnap={true}
+    firstItem={0}
+    forwardedRef={[Function]}
+    hasParallaxImages={false}
+    horizontal={true}
+    inactiveSlideOpacity={0.7}
+    inactiveSlideScale={1}
+    inactiveSlideShift={0}
+    inverted={false}
+    itemWidth={225}
+    layout="default"
+    lockScrollTimeoutDuration={1000}
+    lockScrollWhileSnapping={false}
+    loop={false}
+    loopClonesPerSide={3}
+    onLayout={[Function]}
+    onResponderRelease={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    onSnapToItem={[Function]}
+    onStartShouldSetResponderCapture={[Function]}
+    onTouchEnd={[Function]}
+    onTouchStart={[Function]}
+    overScrollMode="never"
+    pinchGestureEnabled={false}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEnabled={true}
+    scrollEventThrottle={1}
+    scrollsToTop={false}
+    shouldOptimizeUpdates={true}
+    showsHorizontalScrollIndicator={false}
+    showsVerticalScrollIndicator={false}
+    slideStyle={Object {}}
+    sliderWidth={750}
+    style={
+      Object {
+        "flexDirection": "row",
+        "height": 320,
+        "opacity": 0,
+        "width": 750,
+      }
+    }
+    swipeThreshold={20}
+    useScrollView={true}
+    vertical={false}
+  >
+    <View>
+      <View
+        pointerEvents="box-none"
+        style={
+          Object {
+            "opacity": 1,
+            "width": 225,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "flexDirection": "column",
+              "height": 304,
+              "justifyContent": "flex-end",
+              "opacity": 1,
+              "width": 225,
+            }
+          }
+          testID="reward-button"
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#FFFFFF",
+                  "borderRadius": 8,
+                  "height": 210,
+                  "justifyContent": "center",
+                  "width": 210,
+                },
+              ]
+            }
+          >
+            <View
+              borderColor="#5EC98C"
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#FFFFFF",
+                    "borderColor": "#5EC98C",
+                    "borderRadius": 8,
+                    "borderWidth": 3,
+                    "flexDirection": "column",
+                    "height": 200,
+                    "justifyContent": "flex-start",
+                    "width": 202.5,
+                  },
+                ]
+              }
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "alignItems": "center",
+                      "height": 110,
+                      "justifyContent": "center",
+                      "marginHorizontal": 6,
+                      "marginTop": 100,
+                    },
+                  ]
+                }
+              >
+                <Text
+                  alignCenter={false}
+                  allowFontScaling={true}
+                  color="#5EC98C"
+                  fontFamily="BOLD ITALIC"
+                  isUnderlined={false}
+                  isUppercase={true}
+                  maxFontSizeMultiplier={1.3}
+                  size="XXSMALL"
+                  style={
+                    Array [
+                      Object {
+                        "color": "#5EC98C",
+                        "fontFamily": "CalibreBoldItalic",
+                        "fontSize": 21,
+                        "justifyContent": "center",
+                        "textAlign": "left",
+                        "textDecorationColor": "#5EC98C",
+                        "textDecorationLine": "none",
+                        "textDecorationStyle": "solid",
+                        "textTransform": "uppercase",
+                      },
+                    ]
+                  }
+                >
+                  PRIZE
+                </Text>
+                <Text
+                  alignCenter={true}
+                  allowFontScaling={true}
+                  color="#5EC98C"
+                  fontFamily="MEDIUM"
+                  isUnderlined={false}
+                  isUppercase={false}
+                  maxFontSizeMultiplier={1.3}
+                  numberOfLines={1}
+                  size="XXXXSMALL"
+                  style={
+                    Array [
+                      Object {
+                        "color": "#5EC98C",
+                        "fontFamily": "Calibre-Medium",
+                        "fontSize": 18,
+                        "justifyContent": "center",
+                        "textAlign": "center",
+                        "textDecorationColor": "#5EC98C",
+                        "textDecorationLine": "none",
+                        "textDecorationStyle": "solid",
+                        "textTransform": "none",
+                      },
+                    ]
+                  }
+                >
+                  test
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#FFFFFF",
+                  "borderRadius": 63,
+                  "height": 126,
+                  "justifyContent": "center",
+                  "position": "absolute",
+                  "top": 30,
+                  "width": 126,
+                },
+              ]
+            }
+          >
+            <View
+              borderColor="#5EC98C"
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#FFFFFF",
+                    "borderColor": "#5EC98C",
+                    "borderRadius": 60,
+                    "borderWidth": 3,
+                    "height": 120,
+                    "justifyContent": "center",
+                    "overflow": "hidden",
+                    "width": 120,
+                  },
+                ]
+              }
+              type="PRIZE"
+            >
+              <Image
+                resizeMode="contain"
+                source={
+                  Object {
+                    "uri": "",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 225,
+                      "width": 150,
+                    },
+                  ]
+                }
+                type="PRIZE"
+              />
+            </View>
+            <View
+              bgColor="#5EC98C"
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#5EC98C",
+                    "borderColor": "#5EC98C",
+                    "borderRadius": 22.5,
+                    "bottom": -20,
+                    "justifyContent": "center",
+                    "maxWidth": 120,
+                    "minWidth": 60,
+                    "paddingHorizontal": 7.5,
+                    "paddingTop": 10,
+                    "position": "absolute",
+                  },
+                ]
+              }
+            >
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#FFFFFF"
+                fontFamily="MEDIUM"
+                isUnderlined={false}
+                isUppercase={false}
+                marginBottom={0}
+                maxFontSizeMultiplier={1.3}
+                size="XSMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#FFFFFF",
+                      "fontFamily": "Calibre-Medium",
+                      "fontSize": 24,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#FFFFFF",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                  ]
+                }
+              >
+                x1
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;

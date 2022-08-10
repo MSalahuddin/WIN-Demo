@@ -1,0 +1,9 @@
+//
+//  Config.xcconfig
+//  Win_demo
+//
+//  Created by Ingibjorg Osk Jonsdottir on 2019-09-11.
+//  Copyright © 2019 Facebook. All rights reserved.
+//
+
+#include? "tmp.xcconfig"

@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Banner renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+      },
+    ]
+  }
+  width={100}
+>
+  <Image
+    bannerType="NORMAL"
+    resizeMode="contain"
+    source={1}
+    style={
+      Array [
+        Object {
+          "height": 19.130434782608695,
+          "width": 100,
+        },
+      ]
+    }
+    width={100}
+  />
+</View>
+`;
+
+exports[`Component Banner renders correctly without label 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+      },
+    ]
+  }
+  width={100}
+>
+  <Image
+    bannerType="NORMAL"
+    resizeMode="contain"
+    source={1}
+    style={
+      Array [
+        Object {
+          "height": 19.130434782608695,
+          "width": 100,
+        },
+      ]
+    }
+    width={100}
+  />
+</View>
+`;

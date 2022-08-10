@@ -1,0 +1,200 @@
+{ 
+    "data": [
+        {
+            "id": 0,
+            "isPromoCard": false,
+            "isFree": false, 
+            "isGameVIP": false, 
+            "isPlayerVIP": false, 
+            "imageUrl": "", 
+            "price": 50, 
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "38 minutes ago" 
+        },
+        {
+            "id": 1,
+            "isPromoCard": false,
+            "isFree": true, 
+            "isGameVIP": false, 
+            "isPlayerVIP": false, 
+            "imageUrl": "", 
+            "price": 1000,
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "12 minutes ago"   
+        },
+        {
+            "id": 2,
+            "isPromoCard": false,
+            "isFree": false, 
+            "isGameVIP": true, 
+            "isPlayerVIP": false, 
+            "imageUrl": "", 
+            "price": 250,
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "15 minutes ago"   
+        },
+        {
+            "id": 3,
+            "isPromoCard": false,
+            "isFree": false, 
+            "isGameVIP": true, 
+            "isPlayerVIP": true, 
+            "imageUrl": "", 
+            "price": 50,
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "1 minute ago"   
+        },
+        {
+            "id": 4,
+            "isPromoCard": false,
+            "isFree": true, 
+            "isGameVIP": false, 
+            "isPlayerVIP": false, 
+            "imageUrl": "", 
+            "price": 400,
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "6 minutes ago"   
+        },
+        {
+            "id": 5,
+            "isPromoCard": false,
+            "isFree": false, 
+            "isGameVIP": true, 
+            "isPlayerVIP": true, 
+            "imageUrl": "", 
+            "price": 500,
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "8 minutes ago"    
+        },
+        {          
+            "id": 6,  
+            "isPromoCard": false,
+            "isFree": false, 
+            "isGameVIP": true, 
+            "isPlayerVIP": false, 
+            "imageUrl": "", 
+            "price": 50,            
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "46 minutes ago"   
+        },
+        {
+            "id": 7,
+            "isPromoCard": false,
+            "isFree": false, 
+            "isGameVIP": true, 
+            "isPlayerVIP": true, 
+            "imageUrl": "", 
+            "price": 500,
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "3 minutes ago"    
+        },
+        {
+            "id": 8,
+            "isPromoCard": false,
+            "isFree": false, 
+            "isGameVIP": false, 
+            "isPlayerVIP": false, 
+            "imageUrl": "", 
+            "price": 500,
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "1 minutes ago"    
+        },
+        {
+            "id": 9,
+            "isPromoCard": false,
+            "isFree": false, 
+            "isGameVIP": false, 
+            "isPlayerVIP": false, 
+            "imageUrl": "", 
+            "price": 210,
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "38 minutes ago"    
+        },
+        {
+            "id": 10,
+            "isPromoCard": false,
+            "isFree": true, 
+            "isGameVIP": false, 
+            "isPlayerVIP": false, 
+            "imageUrl": "", 
+            "price": 500,
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "15 minutes ago"    
+        },
+        {
+            "id": 11,
+            "isPromoCard": false,
+            "isFree": false, 
+            "isGameVIP": true, 
+            "isPlayerVIP": true, 
+            "imageUrl": "", 
+            "price": 3001,
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "26 minutes ago"    
+        },
+        {  
+            "id": 12,
+            "isPromoCard": true
+        },
+        {
+            "id": 13,
+            "isPromoCard": false,
+            "isFree": false, 
+            "isGameVIP": false, 
+            "isPlayerVIP": false, 
+            "imageUrl": "", 
+            "price": 500,
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "18 minutes ago"    
+        },
+        {
+            "id": 14,
+            "isPromoCard": false,
+            "isFree": false, 
+            "isGameVIP": true, 
+            "isPlayerVIP": false, 
+            "imageUrl": "", 
+            "price": 500,
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "13 minutes ago"    
+        },
+        {
+            "id": 15,
+            "isPromoCard": false,
+            "isFree": false, 
+            "isGameVIP": false, 
+            "isPlayerVIP": false, 
+            "imageUrl": "", 
+            "price": 500,
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "14 minutes ago"    
+        },
+        {
+            "id": 16,
+            "isPromoCard": false,
+            "isFree": false, 
+            "isGameVIP": true, 
+            "isPlayerVIP": false, 
+            "imageUrl": "", 
+            "price": 500,
+            "prizeName": "Prickly Cactus 6\"",
+            "ticketNumber": 100,
+            "lastWin": "46 minutes ago"    
+        }
+    ]
+}

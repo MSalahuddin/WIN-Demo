@@ -1,0 +1,680 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component PrizeCard renders popular PrizeCard on sale 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 12,
+        "elevation": 8,
+        "marginTop": 18,
+        "paddingBottom": 12,
+        "shadowColor": "rgba(53, 53, 53, 0.3)",
+        "shadowOffset": Object {
+          "height": 4,
+          "width": 4,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 2,
+        "width": 339,
+      },
+    ]
+  }
+>
+  <Image
+    resizeMode="cover"
+    source={
+      Object {
+        "uri": "",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "borderTopLeftRadius": 12,
+          "borderTopRightRadius": 12,
+          "height": 278.432,
+          "width": 339,
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "marginBottom": 20,
+          "marginTop": 36,
+          "paddingHorizontal": 24,
+        },
+      ]
+    }
+  >
+    <Text
+      alignCenter={false}
+      allowFontScaling={true}
+      color="#222222"
+      fontFamily="SEMI BOLD"
+      isUnderlined={false}
+      isUppercase={false}
+      maxFontSizeMultiplier={1.3}
+      numberOfLines={1}
+      size="XXSMALL"
+      style={
+        Array [
+          Object {
+            "color": "#222222",
+            "fontFamily": "Calibre-Semibold",
+            "fontSize": 21,
+            "justifyContent": "center",
+            "textAlign": "left",
+            "textDecorationColor": "#222222",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "none",
+          },
+          Object {
+            "marginTop": 0,
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      alignCenter={false}
+      allowFontScaling={true}
+      color="#8B8B8B"
+      fontFamily="REGULAR"
+      isUnderlined={false}
+      isUppercase={false}
+      marginTop={6}
+      maxFontSizeMultiplier={1.3}
+      numberOfLines={1}
+      size="XXSMALL"
+      style={
+        Array [
+          Object {
+            "color": "#8B8B8B",
+            "fontFamily": "CalibreRegular",
+            "fontSize": 21,
+            "justifyContent": "center",
+            "textAlign": "left",
+            "textDecorationColor": "#8B8B8B",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "none",
+          },
+          Object {
+            "marginTop": 12,
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      alignCenter={false}
+      allowFontScaling={true}
+      color="#353535"
+      fontFamily="MEDIUM"
+      isUnderlined={false}
+      isUppercase={false}
+      marginTop={8}
+      maxFontSizeMultiplier={1.3}
+      numberOfLines={1}
+      size="XXSMALL"
+      style={
+        Array [
+          Object {
+            "color": "#353535",
+            "fontFamily": "Calibre-Medium",
+            "fontSize": 21,
+            "justifyContent": "center",
+            "textAlign": "left",
+            "textDecorationColor": "#353535",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "none",
+          },
+          Object {
+            "marginTop": 16,
+          },
+        ]
+      }
+    >
+      Redeem for
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    focusable={true}
+    hitSlop={
+      Object {
+        "bottom": 12,
+        "left": 12,
+        "right": 12,
+        "top": 12,
+      }
+    }
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "marginLeft": 24,
+        "marginTop": 16,
+        "opacity": 1,
+        "position": "absolute",
+        "right": 12,
+      }
+    }
+    testID="winner-info-button"
+  >
+    <Image
+      opacity={1}
+      resizeMode="contain"
+      size={24}
+      source={1}
+      style={
+        Array [
+          Object {
+            "height": 36,
+            "width": 36,
+          },
+        ]
+      }
+    />
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "marginVertical": 10,
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "rgba(160,160,160,1)",
+          "borderRadius": 106,
+          "height": 96,
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 278,
+        }
+      }
+      testID="redeem-button"
+    >
+      <View
+        borderRadius={53}
+        colorScheme="rgba(209,209,209,1)"
+        height={48}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "rgba(209,209,209,1)",
+              "borderRadius": 106,
+              "height": 86,
+              "justifyContent": "center",
+              "width": 272,
+            },
+          ]
+        }
+        width={139}
+      >
+        <View
+          borderRadius={53}
+          colorScheme="rgba(183,183,183,1)"
+          height={48}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "rgba(183,183,183,1)",
+                "borderRadius": 126,
+                "height": 82,
+                "justifyContent": "center",
+                "marginTop": 8,
+                "width": 272,
+              },
+            ]
+          }
+          width={139}
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                },
+              ]
+            }
+          >
+            <Image
+              resizeMode="contain"
+              size={29}
+              source={1}
+              style={
+                Array [
+                  Object {
+                    "height": 43.5,
+                    "marginRight": 16,
+                    "width": 43.5,
+                  },
+                ]
+              }
+            />
+            <View>
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#E5E5E5"
+                fontFamily="BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                marginTop={8}
+                maxFontSizeMultiplier={1.3}
+                size="SMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#E5E5E5",
+                      "fontFamily": "CalibreBold",
+                      "fontSize": 27,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#E5E5E5",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "marginTop": 16,
+                    },
+                  ]
+                }
+              >
+                10
+              </Text>
+              0
+            </View>
+          </View>
+          0
+        </View>
+      </View>
+    </View>
+  </View>
+  <Image
+    resizeMode="contain"
+    source={1}
+    style={
+      Array [
+        Object {
+          "height": 116,
+          "left": -4,
+          "position": "absolute",
+          "top": -4,
+          "width": 120,
+        },
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`Component PrizeCard renders regular PrizeCard correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 12,
+        "elevation": 8,
+        "marginTop": 18,
+        "paddingBottom": 12,
+        "shadowColor": "rgba(53, 53, 53, 0.3)",
+        "shadowOffset": Object {
+          "height": 4,
+          "width": 4,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 2,
+        "width": 339,
+      },
+    ]
+  }
+>
+  <Image
+    resizeMode="cover"
+    source={
+      Object {
+        "uri": "",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "borderTopLeftRadius": 12,
+          "borderTopRightRadius": 12,
+          "height": 278.432,
+          "width": 339,
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "marginBottom": 20,
+          "marginTop": 36,
+          "paddingHorizontal": 24,
+        },
+      ]
+    }
+  >
+    <Text
+      alignCenter={false}
+      allowFontScaling={true}
+      color="#222222"
+      fontFamily="SEMI BOLD"
+      isUnderlined={false}
+      isUppercase={false}
+      maxFontSizeMultiplier={1.3}
+      numberOfLines={1}
+      size="XXSMALL"
+      style={
+        Array [
+          Object {
+            "color": "#222222",
+            "fontFamily": "Calibre-Semibold",
+            "fontSize": 21,
+            "justifyContent": "center",
+            "textAlign": "left",
+            "textDecorationColor": "#222222",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "none",
+          },
+          Object {
+            "marginTop": 0,
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      alignCenter={false}
+      allowFontScaling={true}
+      color="#8B8B8B"
+      fontFamily="REGULAR"
+      isUnderlined={false}
+      isUppercase={false}
+      marginTop={6}
+      maxFontSizeMultiplier={1.3}
+      numberOfLines={1}
+      size="XXSMALL"
+      style={
+        Array [
+          Object {
+            "color": "#8B8B8B",
+            "fontFamily": "CalibreRegular",
+            "fontSize": 21,
+            "justifyContent": "center",
+            "textAlign": "left",
+            "textDecorationColor": "#8B8B8B",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "none",
+          },
+          Object {
+            "marginTop": 12,
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      alignCenter={false}
+      allowFontScaling={true}
+      color="#353535"
+      fontFamily="MEDIUM"
+      isUnderlined={false}
+      isUppercase={false}
+      marginTop={8}
+      maxFontSizeMultiplier={1.3}
+      numberOfLines={1}
+      size="XXSMALL"
+      style={
+        Array [
+          Object {
+            "color": "#353535",
+            "fontFamily": "Calibre-Medium",
+            "fontSize": 21,
+            "justifyContent": "center",
+            "textAlign": "left",
+            "textDecorationColor": "#353535",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "none",
+          },
+          Object {
+            "marginTop": 16,
+          },
+        ]
+      }
+    >
+      Redeem for
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    focusable={true}
+    hitSlop={
+      Object {
+        "bottom": 12,
+        "left": 12,
+        "right": 12,
+        "top": 12,
+      }
+    }
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "marginLeft": 24,
+        "marginTop": 16,
+        "opacity": 1,
+        "position": "absolute",
+        "right": 12,
+      }
+    }
+    testID="winner-info-button"
+  >
+    <Image
+      opacity={1}
+      resizeMode="contain"
+      size={24}
+      source={1}
+      style={
+        Array [
+          Object {
+            "height": 36,
+            "width": 36,
+          },
+        ]
+      }
+    />
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "marginVertical": 10,
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "rgba(160,160,160,1)",
+          "borderRadius": 106,
+          "height": 96,
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 278,
+        }
+      }
+      testID="redeem-button"
+    >
+      <View
+        borderRadius={53}
+        colorScheme="rgba(209,209,209,1)"
+        height={48}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "rgba(209,209,209,1)",
+              "borderRadius": 106,
+              "height": 86,
+              "justifyContent": "center",
+              "width": 272,
+            },
+          ]
+        }
+        width={139}
+      >
+        <View
+          borderRadius={53}
+          colorScheme="rgba(183,183,183,1)"
+          height={48}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "rgba(183,183,183,1)",
+                "borderRadius": 126,
+                "height": 82,
+                "justifyContent": "center",
+                "marginTop": 8,
+                "width": 272,
+              },
+            ]
+          }
+          width={139}
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                },
+              ]
+            }
+          >
+            <Image
+              resizeMode="contain"
+              size={29}
+              source={1}
+              style={
+                Array [
+                  Object {
+                    "height": 43.5,
+                    "marginRight": 16,
+                    "width": 43.5,
+                  },
+                ]
+              }
+            />
+            <View>
+              <Text
+                alignCenter={false}
+                allowFontScaling={true}
+                color="#E5E5E5"
+                fontFamily="BOLD"
+                isUnderlined={false}
+                isUppercase={false}
+                marginTop={8}
+                maxFontSizeMultiplier={1.3}
+                size="SMALL"
+                style={
+                  Array [
+                    Object {
+                      "color": "#E5E5E5",
+                      "fontFamily": "CalibreBold",
+                      "fontSize": 27,
+                      "justifyContent": "center",
+                      "textAlign": "left",
+                      "textDecorationColor": "#E5E5E5",
+                      "textDecorationLine": "none",
+                      "textDecorationStyle": "solid",
+                      "textTransform": "none",
+                    },
+                    Object {
+                      "marginTop": 16,
+                    },
+                  ]
+                }
+              >
+                0
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

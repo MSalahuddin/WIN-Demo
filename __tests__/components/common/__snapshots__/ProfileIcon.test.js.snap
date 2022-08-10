@@ -1,0 +1,190 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component ProfileIcon renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#FFFFFF",
+      "borderRadius": 30,
+      "borderWidth": 1,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 60,
+    }
+  }
+  testID="profile-button"
+>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#BFBFBF",
+          "borderRadius": 30,
+          "height": 60,
+          "width": 60,
+        },
+      ]
+    }
+  >
+    <Image
+      resizeMode="contain"
+      source={
+        Object {
+          "uri": "a",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+        ]
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`Component ProfileIcon renders correctly when profileImageUri is not provided 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#FFFFFF",
+      "borderRadius": 30,
+      "borderWidth": 1,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 60,
+    }
+  }
+  testID="profile-button"
+>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#BFBFBF",
+          "borderRadius": 30,
+          "height": 60,
+          "width": 60,
+        },
+      ]
+    }
+  >
+    
+  </View>
+</View>
+`;
+
+exports[`Component ProfileIcon renders correctly with prize available 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#FFFFFF",
+      "borderRadius": 30,
+      "borderWidth": 1,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 60,
+    }
+  }
+  testID="profile-button"
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+        "position": "absolute",
+        "right": -18,
+        "top": 9,
+        "zIndex": 2,
+      }
+    }
+  >
+    <Image
+      source={1}
+      style={
+        Array [
+          Object {
+            "height": 36,
+            "width": 36,
+          },
+        ]
+      }
+    />
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#BFBFBF",
+          "borderRadius": 30,
+          "height": 60,
+          "width": 60,
+        },
+      ]
+    }
+  >
+    <Image
+      resizeMode="contain"
+      source={
+        Object {
+          "uri": "a",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+        ]
+      }
+    />
+  </View>
+</View>
+`;

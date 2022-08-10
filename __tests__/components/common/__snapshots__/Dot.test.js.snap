@@ -1,0 +1,181 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Dot renders correctly when active 1`] = `
+<View
+  accessible={true}
+  dotColor="#FFFFFF"
+  focusable={true}
+  isActive={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  size={12}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 12,
+        "height": 24,
+        "marginHorizontal": 4,
+        "opacity": 1,
+        "shadowColor": "#FFFFFF",
+        "shadowOffset": Object {
+          "height": 1,
+          "width": 1,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 6,
+        "width": 24,
+      },
+    ]
+  }
+/>
+`;
+
+exports[`Component Dot renders correctly when not active 1`] = `
+<View
+  accessible={true}
+  dotColor="#FFFFFF"
+  focusable={true}
+  isActive={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  size={12}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 9,
+        "height": 18,
+        "marginHorizontal": 4,
+        "opacity": 0.5,
+        "shadowColor": "#FFFFFF",
+        "shadowOffset": Object {
+          "height": 1,
+          "width": 1,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 6,
+        "width": 18,
+      },
+    ]
+  }
+/>
+`;
+
+exports[`Component Dot renders correctly with default props 1`] = `
+<View
+  accessible={true}
+  dotColor="#FFFFFF"
+  focusable={true}
+  isActive={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  size={12}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 9,
+        "height": 18,
+        "marginHorizontal": 4,
+        "opacity": 0.5,
+        "shadowColor": "#FFFFFF",
+        "shadowOffset": Object {
+          "height": 1,
+          "width": 1,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 6,
+        "width": 18,
+      },
+    ]
+  }
+/>
+`;
+
+exports[`Component Dot renders correctly with different color 1`] = `
+<View
+  accessible={true}
+  dotColor="#000"
+  focusable={true}
+  isActive={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  size={12}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#000",
+        "borderRadius": 9,
+        "height": 18,
+        "marginHorizontal": 4,
+        "opacity": 0.5,
+        "shadowColor": "#000",
+        "shadowOffset": Object {
+          "height": 1,
+          "width": 1,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 6,
+        "width": 18,
+      },
+    ]
+  }
+/>
+`;
+
+exports[`Component Dot renders correctly with different size 1`] = `
+<View
+  accessible={true}
+  dotColor="#FFFFFF"
+  focusable={true}
+  isActive={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  size={20}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 15,
+        "height": 30,
+        "marginHorizontal": 6.666666666666667,
+        "opacity": 0.5,
+        "shadowColor": "#FFFFFF",
+        "shadowOffset": Object {
+          "height": 1,
+          "width": 1,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 10,
+        "width": 30,
+      },
+    ]
+  }
+/>
+`;

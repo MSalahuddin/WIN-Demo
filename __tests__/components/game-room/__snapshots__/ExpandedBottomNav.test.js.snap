@@ -1,0 +1,283 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component ExpandedBottomNav renders regular ExpandedBottomNav correctly 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderRadius": 37.5,
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginBottom": 10,
+        "marginHorizontal": 40,
+        "marginTop": 10,
+        "paddingVertical": 20,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      hitSlop={
+        Object {
+          "bottom": 12,
+          "left": 12,
+          "right": 12,
+          "top": 12,
+        }
+      }
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "marginHorizontal": 24,
+          "marginTop": 0,
+          "opacity": 1,
+        }
+      }
+      testID="icon-button"
+    >
+      <Image
+        opacity={1}
+        resizeMode="contain"
+        size={25}
+        source={1}
+        style={
+          Array [
+            Object {
+              "height": 37.5,
+              "width": 37.5,
+            },
+          ]
+        }
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      hitSlop={
+        Object {
+          "bottom": 12,
+          "left": 12,
+          "right": 12,
+          "top": 12,
+        }
+      }
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "marginHorizontal": 24,
+          "marginTop": 0,
+          "opacity": 1,
+        }
+      }
+      testID="icon-button"
+    >
+      <Image
+        opacity={1}
+        resizeMode="contain"
+        size={25}
+        source={1}
+        style={
+          Array [
+            Object {
+              "height": 37.5,
+              "width": 37.5,
+            },
+          ]
+        }
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      hitSlop={
+        Object {
+          "bottom": 12,
+          "left": 12,
+          "right": 12,
+          "top": 12,
+        }
+      }
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "marginHorizontal": 24,
+          "marginTop": 0,
+          "opacity": 1,
+        }
+      }
+      testID="icon-button"
+    >
+      <Image
+        opacity={1}
+        resizeMode="contain"
+        size={35}
+        source={1}
+        style={
+          Array [
+            Object {
+              "height": 52.5,
+              "width": 52.5,
+            },
+          ]
+        }
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      hitSlop={
+        Object {
+          "bottom": 12,
+          "left": 12,
+          "right": 12,
+          "top": 12,
+        }
+      }
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "marginHorizontal": 24,
+          "marginTop": 0,
+          "opacity": 1,
+        }
+      }
+      testID="icon-button"
+    >
+      <Image
+        opacity={1}
+        resizeMode="contain"
+        size={25}
+        source={1}
+        style={
+          Array [
+            Object {
+              "height": 37.5,
+              "width": 37.5,
+            },
+          ]
+        }
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      hitSlop={
+        Object {
+          "bottom": 12,
+          "left": 12,
+          "right": 12,
+          "top": 12,
+        }
+      }
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "marginHorizontal": 24,
+          "marginTop": 0,
+          "opacity": 1,
+        }
+      }
+      testID="icon-button"
+    >
+      <Image
+        opacity={1}
+        resizeMode="contain"
+        size={25}
+        source={1}
+        style={
+          Array [
+            Object {
+              "height": 37.5,
+              "width": 37.5,
+            },
+          ]
+        }
+      />
+    </View>
+  </View>
+</RCTSafeAreaView>
+`;

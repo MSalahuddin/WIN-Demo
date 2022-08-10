@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component TextButton renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  hitSlop={
+    Object {
+      "bottom": 10,
+      "left": 10,
+      "right": 10,
+      "top": 10,
+    }
+  }
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+  testID="button"
+>
+  <Text
+    alignCenter={false}
+    allowFontScaling={true}
+    color="#000000"
+    fontFamily="MEDIUM"
+    isUnderlined={true}
+    isUppercase={false}
+    maxFontSizeMultiplier={1.3}
+    size="XXSMALL"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Calibre-Medium",
+          "fontSize": 21,
+          "justifyContent": "center",
+          "textAlign": "left",
+          "textDecorationColor": "#000000",
+          "textDecorationLine": "underline",
+          "textDecorationStyle": "solid",
+          "textTransform": "none",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;

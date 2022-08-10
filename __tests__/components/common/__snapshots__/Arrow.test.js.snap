@@ -1,0 +1,197 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Arrow renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  hitSlop={
+    Object {
+      "bottom": 20,
+      "left": 20,
+      "right": 20,
+      "top": 20,
+    }
+  }
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+  testID="arrow"
+>
+  <View
+    arrowDirection="DOWN"
+    color="#000000"
+    size={8}
+    style={
+      Array [
+        Object {
+          "borderBottomColor": "transparent",
+          "borderLeftColor": "transparent",
+          "borderRadius": 3,
+          "borderRightColor": "transparent",
+          "borderStyle": "solid",
+          "borderTopColor": "#000000",
+          "borderWidth": 12,
+          "height": 0,
+          "width": 0,
+        },
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`Component Arrow renders correctly when arrowDirection="LEFT" 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  hitSlop={
+    Object {
+      "bottom": 20,
+      "left": 20,
+      "right": 20,
+      "top": 20,
+    }
+  }
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+  testID="arrow"
+>
+  <View
+    arrowDirection="LEFT"
+    color="#000000"
+    size={8}
+    style={
+      Array [
+        Object {
+          "borderBottomColor": "transparent",
+          "borderLeftColor": "transparent",
+          "borderRadius": 3,
+          "borderRightColor": "#000000",
+          "borderStyle": "solid",
+          "borderTopColor": "transparent",
+          "borderWidth": 12,
+          "height": 0,
+          "width": 0,
+        },
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`Component Arrow renders correctly when arrowDirection="RIGHT" 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  hitSlop={
+    Object {
+      "bottom": 20,
+      "left": 20,
+      "right": 20,
+      "top": 20,
+    }
+  }
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+  testID="arrow"
+>
+  <View
+    arrowDirection="RIGHT"
+    color="#000000"
+    size={8}
+    style={
+      Array [
+        Object {
+          "borderBottomColor": "transparent",
+          "borderLeftColor": "#000000",
+          "borderRadius": 3,
+          "borderRightColor": "transparent",
+          "borderStyle": "solid",
+          "borderTopColor": "transparent",
+          "borderWidth": 12,
+          "height": 0,
+          "width": 0,
+        },
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`Component Arrow renders correctly when arrowDirection="UP" 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  hitSlop={
+    Object {
+      "bottom": 20,
+      "left": 20,
+      "right": 20,
+      "top": 20,
+    }
+  }
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+  testID="arrow"
+>
+  <View
+    arrowDirection="UP"
+    color="#000000"
+    size={8}
+    style={
+      Array [
+        Object {
+          "borderBottomColor": "#000000",
+          "borderLeftColor": "transparent",
+          "borderRadius": 3,
+          "borderRightColor": "transparent",
+          "borderStyle": "solid",
+          "borderTopColor": "transparent",
+          "borderWidth": 12,
+          "height": 0,
+          "width": 0,
+        },
+      ]
+    }
+  />
+</View>
+`;

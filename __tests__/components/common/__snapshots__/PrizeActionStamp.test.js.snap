@@ -1,0 +1,657 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component PrizeActionStamp renders correctly - prize not been swapped or shipped. 1`] = `
+<View
+  bodyColor="#F06B59"
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderColor": "#F06B59",
+        "borderRadius": 79.5,
+        "borderWidth": 4.5,
+        "height": 159,
+        "justifyContent": "center",
+        "overflow": "hidden",
+        "width": 159,
+      },
+    ]
+  }
+>
+  <View
+    bodyColor="#F06B59"
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "borderColor": "#F06B59",
+          "borderRadius": 71.25,
+          "borderWidth": 1.5,
+          "height": 142.5,
+          "justifyContent": "center",
+          "transform": Array [
+            Object {
+              "rotate": "-30deg",
+            },
+          ],
+          "width": 142.5,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexDirection": "column",
+            "justifyContent": "center",
+          },
+        ]
+      }
+    >
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        bodyColor="#F06B59"
+        color="#000000"
+        fontFamily="MEDIUM"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Calibre-Medium",
+              "fontSize": 19.5,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "color": "#F06B59",
+            },
+          ]
+        }
+      >
+        Jan 27, 2012
+      </Text>
+      <View
+        bodyColor="#F06B59"
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#F06B59",
+              "height": 58,
+              "justifyContent": "center",
+              "marginBottom": 6,
+              "width": 151.5,
+            },
+          ]
+        }
+      >
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#000000"
+          fontFamily="BOLD"
+          isUnderlined={false}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          size="XSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "CalibreBold",
+                "fontSize": 24,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#000000",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "color": "#FFFFFF",
+                "marginTop": 12,
+              },
+            ]
+          }
+        >
+          New
+        </Text>
+      </View>
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        bodyColor="#F06B59"
+        color="#000000"
+        fontFamily="MEDIUM"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Calibre-Medium",
+              "fontSize": 19.5,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "color": "#F06B59",
+            },
+          ]
+        }
+      >
+        01:51 AM
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Component PrizeActionStamp renders correctly when type="packing" 1`] = `
+<View
+  bodyColor="#F06B59"
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderColor": "#F06B59",
+        "borderRadius": 79.5,
+        "borderWidth": 4.5,
+        "height": 159,
+        "justifyContent": "center",
+        "overflow": "hidden",
+        "width": 159,
+      },
+    ]
+  }
+>
+  <View
+    bodyColor="#F06B59"
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "borderColor": "#F06B59",
+          "borderRadius": 71.25,
+          "borderWidth": 1.5,
+          "height": 142.5,
+          "justifyContent": "center",
+          "transform": Array [
+            Object {
+              "rotate": "-30deg",
+            },
+          ],
+          "width": 142.5,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexDirection": "column",
+            "justifyContent": "center",
+          },
+        ]
+      }
+    >
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        bodyColor="#F06B59"
+        color="#000000"
+        fontFamily="MEDIUM"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Calibre-Medium",
+              "fontSize": 19.5,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "color": "#F06B59",
+            },
+          ]
+        }
+      >
+        Jan 27, 2012
+      </Text>
+      <View
+        bodyColor="#F06B59"
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#F06B59",
+              "height": 58,
+              "justifyContent": "center",
+              "marginBottom": 6,
+              "width": 151.5,
+            },
+          ]
+        }
+      >
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#000000"
+          fontFamily="BOLD"
+          isUnderlined={false}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          size="XSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "CalibreBold",
+                "fontSize": 24,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#000000",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "color": "#FFFFFF",
+                "marginTop": 12,
+              },
+            ]
+          }
+        >
+          Packing
+        </Text>
+      </View>
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        bodyColor="#F06B59"
+        color="#000000"
+        fontFamily="MEDIUM"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Calibre-Medium",
+              "fontSize": 19.5,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "color": "#F06B59",
+            },
+          ]
+        }
+      >
+        01:51 AM
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Component PrizeActionStamp renders correctly when type="shipped" 1`] = `
+<View
+  bodyColor="#5EC98C"
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderColor": "#5EC98C",
+        "borderRadius": 79.5,
+        "borderWidth": 4.5,
+        "height": 159,
+        "justifyContent": "center",
+        "overflow": "hidden",
+        "width": 159,
+      },
+    ]
+  }
+>
+  <View
+    bodyColor="#5EC98C"
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "borderColor": "#5EC98C",
+          "borderRadius": 71.25,
+          "borderWidth": 1.5,
+          "height": 142.5,
+          "justifyContent": "center",
+          "transform": Array [
+            Object {
+              "rotate": "-30deg",
+            },
+          ],
+          "width": 142.5,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexDirection": "column",
+            "justifyContent": "center",
+          },
+        ]
+      }
+    >
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        bodyColor="#5EC98C"
+        color="#000000"
+        fontFamily="MEDIUM"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Calibre-Medium",
+              "fontSize": 19.5,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "color": "#5EC98C",
+            },
+          ]
+        }
+      >
+        Jan 27, 2012
+      </Text>
+      <View
+        bodyColor="#5EC98C"
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#5EC98C",
+              "height": 58,
+              "justifyContent": "center",
+              "marginBottom": 6,
+              "width": 151.5,
+            },
+          ]
+        }
+      >
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#000000"
+          fontFamily="BOLD"
+          isUnderlined={false}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          size="XSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "CalibreBold",
+                "fontSize": 24,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#000000",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "color": "#FFFFFF",
+                "marginTop": 12,
+              },
+            ]
+          }
+        >
+          Shipped
+        </Text>
+      </View>
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        bodyColor="#5EC98C"
+        color="#000000"
+        fontFamily="MEDIUM"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Calibre-Medium",
+              "fontSize": 19.5,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "color": "#5EC98C",
+            },
+          ]
+        }
+      >
+        01:51 AM
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Component PrizeActionStamp renders correctly when type="swapped" 1`] = `
+<View
+  bodyColor="#7C89D8"
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderColor": "#7C89D8",
+        "borderRadius": 79.5,
+        "borderWidth": 4.5,
+        "height": 159,
+        "justifyContent": "center",
+        "overflow": "hidden",
+        "width": 159,
+      },
+    ]
+  }
+>
+  <View
+    bodyColor="#7C89D8"
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "borderColor": "#7C89D8",
+          "borderRadius": 71.25,
+          "borderWidth": 1.5,
+          "height": 142.5,
+          "justifyContent": "center",
+          "transform": Array [
+            Object {
+              "rotate": "-30deg",
+            },
+          ],
+          "width": 142.5,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexDirection": "column",
+            "justifyContent": "center",
+          },
+        ]
+      }
+    >
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        bodyColor="#7C89D8"
+        color="#000000"
+        fontFamily="MEDIUM"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Calibre-Medium",
+              "fontSize": 19.5,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "color": "#7C89D8",
+            },
+          ]
+        }
+      >
+        Jan 27, 2012
+      </Text>
+      <View
+        bodyColor="#7C89D8"
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#7C89D8",
+              "height": 58,
+              "justifyContent": "center",
+              "marginBottom": 6,
+              "width": 151.5,
+            },
+          ]
+        }
+      >
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#000000"
+          fontFamily="BOLD"
+          isUnderlined={false}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          size="XSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "CalibreBold",
+                "fontSize": 24,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#000000",
+                "textDecorationLine": "none",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "color": "#FFFFFF",
+                "marginTop": 12,
+              },
+            ]
+          }
+        >
+          Swapped
+        </Text>
+      </View>
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        bodyColor="#7C89D8"
+        color="#000000"
+        fontFamily="MEDIUM"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Calibre-Medium",
+              "fontSize": 19.5,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "color": "#7C89D8",
+            },
+          ]
+        }
+      >
+        01:51 AM
+      </Text>
+    </View>
+  </View>
+</View>
+`;

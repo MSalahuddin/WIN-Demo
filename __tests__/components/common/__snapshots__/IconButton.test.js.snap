@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component IconButton renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  hitSlop={
+    Object {
+      "bottom": 12,
+      "left": 12,
+      "right": 12,
+      "top": 12,
+    }
+  }
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "marginLeft": 24,
+      "marginTop": 48,
+      "opacity": 1,
+    }
+  }
+  testID="icon-button"
+>
+  <Image
+    opacity={1}
+    resizeMode="contain"
+    size={40}
+    source={1}
+    style={
+      Array [
+        Object {
+          "height": 60,
+          "width": 60,
+        },
+      ]
+    }
+  />
+</View>
+`;

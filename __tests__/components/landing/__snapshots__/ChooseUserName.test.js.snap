@@ -1,0 +1,1311 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component ChooseUserName renders correctly 1`] = `
+Array [
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "marginTop": 64,
+        },
+      ]
+    }
+  >
+    <View
+      backgroundColor="#B7B7B7"
+      borderColor="#B7B7B7"
+      borderWidth={8}
+      style={
+        Array [
+          Object {
+            "borderRadius": 12,
+          },
+        ]
+      }
+    >
+      <View
+        bdWidth={8}
+        isTop={true}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "height": 8,
+              "justifyContent": "space-around",
+              "paddingHorizontal": 4,
+              "position": "absolute",
+              "top": -8,
+              "width": 654,
+            },
+          ]
+        }
+        width={654}
+      >
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        bdWidth={8}
+        isBottom={true}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "bottom": -8,
+              "flexDirection": "row",
+              "height": 8,
+              "justifyContent": "space-around",
+              "paddingHorizontal": 4,
+              "position": "absolute",
+              "width": 654,
+            },
+          ]
+        }
+        width={654}
+      >
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        bdWidth={8}
+        isLeft={true}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "height": "100%",
+              "justifyContent": "space-around",
+              "left": -8,
+              "paddingVertical": 4,
+              "position": "absolute",
+              "width": 8,
+            },
+          ]
+        }
+      >
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        bdWidth={8}
+        isRight={true}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "height": "100%",
+              "justifyContent": "space-around",
+              "paddingVertical": 4,
+              "position": "absolute",
+              "right": -8,
+              "width": 8,
+            },
+          ]
+        }
+      >
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        left={-6}
+        size={8}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "height": 16,
+              "justifyContent": "center",
+              "position": "absolute",
+              "width": 16,
+            },
+          ]
+        }
+        top={-6}
+      >
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        right={-6}
+        size={8}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "height": 16,
+              "justifyContent": "center",
+              "position": "absolute",
+              "width": 16,
+            },
+          ]
+        }
+        top={-6}
+      >
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        bottom={-6}
+        left={-6}
+        size={8}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "height": 16,
+              "justifyContent": "center",
+              "position": "absolute",
+              "width": 16,
+            },
+          ]
+        }
+      >
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        bottom={-6}
+        right={-6}
+        size={8}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "height": 16,
+              "justifyContent": "center",
+              "position": "absolute",
+              "width": 16,
+            },
+          ]
+        }
+      >
+        <View
+          dotColor="rgba(249,249,249,0.9)"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 6,
+                "width": 6,
+              },
+            ]
+          }
+        />
+      </View>
+      <TextInput
+        allowFontScaling={false}
+        autoCapitalize="none"
+        autoCorrect={false}
+        backgroundColor="rgba(249,249,249,0.9)"
+        customFont="CalibreRegular"
+        fontColor="#BFBFBF"
+        maxLength={13}
+        onChangeText={[Function]}
+        onFocus={[Function]}
+        placeholder="Choose your username..."
+        placeholderTextColor="#BFBFBF"
+        rejectResponderTermination={true}
+        style={
+          Array [
+            Object {
+              "backgroundColor": "rgba(249,249,249,0.9)",
+              "borderRadius": 12,
+              "color": "#BFBFBF",
+              "fontFamily": "CalibreRegular",
+              "fontSize": 27,
+              "height": 96,
+              "justifyContent": "center",
+              "paddingTop": 7.5,
+              "width": 654,
+            },
+          ]
+        }
+        textAlign="center"
+        underlineColorAndroid="transparent"
+        value=""
+      />
+    </View>
+  </View>,
+  <View
+    style={
+      Array [
+        Object {
+          "height": 50,
+        },
+      ]
+    }
+  />,
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "height": 288,
+          "marginTop": 138,
+          "width": "100%",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexBasis": 0,
+            "flexDirection": "row",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "justifyContent": "center",
+            "marginBottom": 64,
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "rgba(249,249,249,0.9)",
+                "borderRadius": 3,
+                "height": 36,
+                "width": 36,
+              },
+            ]
+          }
+        />
+      </View>
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#222222"
+        fontFamily="REGULAR"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#222222",
+              "fontFamily": "CalibreRegular",
+              "fontSize": 24,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#222222",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "lineHeight": 24,
+              "marginLeft": 12,
+              "marginTop": 14,
+            },
+          ]
+        }
+      >
+        I agree to the 
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#222222"
+          fontFamily="MEDIUM"
+          isUnderlined={true}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          onPress={[Function]}
+          size="XSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#222222",
+                "fontFamily": "Calibre-Medium",
+                "fontSize": 24,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#222222",
+                "textDecorationLine": "underline",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "lineHeight": 24,
+                "marginTop": 14,
+              },
+            ]
+          }
+          testID="terms-text"
+        >
+          Terms & Conditions
+        </Text>
+         and 
+        <Text
+          alignCenter={false}
+          allowFontScaling={true}
+          color="#222222"
+          fontFamily="MEDIUM"
+          isUnderlined={true}
+          isUppercase={false}
+          maxFontSizeMultiplier={1.3}
+          onPress={[Function]}
+          size="XSMALL"
+          style={
+            Array [
+              Object {
+                "color": "#222222",
+                "fontFamily": "Calibre-Medium",
+                "fontSize": 24,
+                "justifyContent": "center",
+                "textAlign": "left",
+                "textDecorationColor": "#222222",
+                "textDecorationLine": "underline",
+                "textDecorationStyle": "solid",
+                "textTransform": "none",
+              },
+              Object {
+                "lineHeight": 24,
+                "marginTop": 14,
+              },
+            ]
+          }
+          testID="eula-text"
+        >
+          EULA
+        </Text>
+      </Text>
+    </View>
+    <View
+      onLayout={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "marginHorizontal": 10,
+            "marginVertical": 10,
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "rgba(160,160,160,1)",
+            "borderRadius": 88,
+            "height": 160,
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": 542,
+          }
+        }
+        testID="button"
+      >
+        <View
+          borderRadius={44}
+          colorScheme="rgba(209,209,209,1)"
+          height={80}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "rgba(209,209,209,1)",
+                "borderRadius": 88,
+                "height": 150,
+                "justifyContent": "center",
+                "width": 536,
+              },
+            ]
+          }
+          width={271}
+        >
+          <View
+            borderRadius={44}
+            colorScheme="rgba(183,183,183,1)"
+            height={80}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "rgba(183,183,183,1)",
+                  "borderRadius": 108,
+                  "height": 146,
+                  "justifyContent": "center",
+                  "marginTop": 8,
+                  "width": 536,
+                },
+              ]
+            }
+            width={271}
+          >
+            <Text
+              alignCenter={false}
+              allowFontScaling={true}
+              color="#E5E5E5"
+              fontFamily="MEDIUM"
+              isUnderlined={false}
+              isUppercase={false}
+              maxFontSizeMultiplier={1.3}
+              size="XLARGE"
+              style={
+                Array [
+                  Object {
+                    "color": "#E5E5E5",
+                    "fontFamily": "Calibre-Medium",
+                    "fontSize": 36,
+                    "justifyContent": "center",
+                    "textAlign": "left",
+                    "textDecorationColor": "#E5E5E5",
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textTransform": "none",
+                  },
+                  Object {
+                    "marginTop": 10,
+                  },
+                ]
+              }
+            >
+              Complete account
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>,
+]
+`;

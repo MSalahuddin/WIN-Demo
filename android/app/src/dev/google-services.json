@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "986749455696",
+    "firebase_url": "https://winner-winner-2020.firebaseio.com",
+    "project_id": "winner-winner-2020",
+    "storage_bucket": "winner-winner-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986749455696:android:c2545ba1a2d79a5ccb3055",
+        "android_client_info": {
+          "package_name": "com.playtertainment.ww"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986749455696-ls00l6g2u1b4259v5ahn85e7a7ma9pu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwavLnaW48kNyRm_XFWjVcgjFbP7uYLGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986749455696-ls00l6g2u1b4259v5ahn85e7a7ma9pu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986749455696:android:c8fe72977f8b4e93cb3055",
+        "android_client_info": {
+          "package_name": "com.playtertainment.ww.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986749455696-ls00l6g2u1b4259v5ahn85e7a7ma9pu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwavLnaW48kNyRm_XFWjVcgjFbP7uYLGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986749455696-ls00l6g2u1b4259v5ahn85e7a7ma9pu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986749455696:android:a6cc39bf72bb764acb3055",
+        "android_client_info": {
+          "package_name": "com.playtertainment.ww.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986749455696-ls00l6g2u1b4259v5ahn85e7a7ma9pu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwavLnaW48kNyRm_XFWjVcgjFbP7uYLGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986749455696-ls00l6g2u1b4259v5ahn85e7a7ma9pu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

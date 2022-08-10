@@ -1,0 +1,209 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Toggle renders correctly when it is enabled 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#E5E5E5",
+          "borderRadius": 58.5,
+          "height": 57,
+          "justifyContent": "center",
+          "width": 85.5,
+        },
+      ]
+    }
+  >
+    <View
+      enabled={true}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#72D59E",
+            "borderRadius": 58.5,
+            "flexDirection": "row",
+            "height": 48,
+            "justifyContent": "flex-end",
+            "marginHorizontal": 15,
+            "paddingHorizontal": 1.5,
+            "paddingVertical": 1.5,
+            "width": 76.5,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 21,
+              "borderWidth": 0,
+              "height": 42,
+              "width": 42,
+            },
+          ]
+        }
+      />
+    </View>
+  </View>
+  <Text
+    alignCenter={false}
+    allowFontScaling={true}
+    color="#000000"
+    fontFamily="SEMI BOLD"
+    isUnderlined={false}
+    isUppercase={false}
+    maxFontSizeMultiplier={1.3}
+    size="XXSMALL"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Calibre-Semibold",
+          "fontSize": 21,
+          "justifyContent": "center",
+          "textAlign": "left",
+          "textDecorationColor": "#000000",
+          "textDecorationLine": "none",
+          "textDecorationStyle": "solid",
+          "textTransform": "none",
+        },
+        Object {
+          "marginTop": 16,
+        },
+      ]
+    }
+  >
+    a
+  </Text>
+</View>
+`;
+
+exports[`Component Toggle renders correctly when it is enabled=false 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#E5E5E5",
+          "borderRadius": 58.5,
+          "height": 57,
+          "justifyContent": "center",
+          "width": 85.5,
+        },
+      ]
+    }
+  >
+    <View
+      enabled={false}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#8B8B8B",
+            "borderRadius": 58.5,
+            "flexDirection": "row",
+            "height": 48,
+            "justifyContent": "flex-start",
+            "marginHorizontal": 15,
+            "paddingHorizontal": 1.5,
+            "paddingVertical": 1.5,
+            "width": 76.5,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 21,
+              "borderWidth": 0,
+              "height": 42,
+              "width": 42,
+            },
+          ]
+        }
+      />
+    </View>
+  </View>
+  <Text
+    alignCenter={false}
+    allowFontScaling={true}
+    color="#000000"
+    fontFamily="SEMI BOLD"
+    isUnderlined={false}
+    isUppercase={false}
+    maxFontSizeMultiplier={1.3}
+    size="XXSMALL"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Calibre-Semibold",
+          "fontSize": 21,
+          "justifyContent": "center",
+          "textAlign": "left",
+          "textDecorationColor": "#000000",
+          "textDecorationLine": "none",
+          "textDecorationStyle": "solid",
+          "textTransform": "none",
+        },
+        Object {
+          "marginTop": 16,
+        },
+      ]
+    }
+  >
+    a
+  </Text>
+</View>
+`;

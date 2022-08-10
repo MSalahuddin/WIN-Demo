@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aps-environment</key>
+	<string>development</string>
+	<key>com.apple.developer.applesignin</key>
+	<array>
+		<string>Default</string>
+	</array>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:Win_demo.app.link</string>
+		<string>applinks:Win_demo.test-app.link</string>
+		<string>applinks:Win_demo-alternate.app.link</string>
+		<string>applinks:Win_demolivearcade.gsc.im</string>
+		<string>applinks:Win_demolivearcade-gsalt.gsc.im</string>
+		<string>applinks:Win_demo.gsc.im</string>
+		<string>applinks:Win_demo-gsalt.gsc.im</string>
+		<string>applinks:Win_demo-alternate.onelink.me</string>
+		<string>applinks:Win_demo.onelink.me</string>
+	</array>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.com.playtertainment.ww.stg</string>
+	</array>
+</dict>
+</plist>

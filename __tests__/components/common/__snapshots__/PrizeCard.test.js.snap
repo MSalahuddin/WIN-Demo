@@ -1,0 +1,345 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component PrizeCard renders regular card correctly when ticketQuantity = 0 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 12,
+      "flexDirection": "column",
+      "marginHorizontal": 7.5,
+      "marginTop": 18,
+      "opacity": 1,
+      "overflow": "hidden",
+      "shadowColor": "rgba(53, 53, 53, 0.3)",
+      "shadowOffset": Object {
+        "height": 4,
+        "width": 4,
+      },
+      "shadowOpacity": 1,
+      "shadowRadius": 2,
+      "width": 339,
+    }
+  }
+  testID="prize-card-button"
+>
+  <Image
+    resizeMode="cover"
+    source={
+      Object {
+        "uri": "",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "height": 339,
+          "overflow": "hidden",
+          "width": 339,
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "center",
+          "paddingHorizontal": 30,
+          "paddingVertical": 20,
+        },
+      ]
+    }
+  >
+    <Text
+      alignCenter={true}
+      allowFontScaling={true}
+      color="#000000"
+      ellipsizeMode="tail"
+      fontFamily="MEDIUM"
+      isUnderlined={false}
+      isUppercase={false}
+      maxFontSizeMultiplier={1.3}
+      size="XXSMALL"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "Calibre-Medium",
+            "fontSize": 21,
+            "justifyContent": "center",
+            "textAlign": "center",
+            "textDecorationColor": "#000000",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "none",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#F9F9F9",
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "center",
+          "paddingHorizontal": 30,
+          "paddingVertical": 20,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexBasis": 0,
+            "flexDirection": "row",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "justifyContent": "center",
+          },
+        ]
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Array [
+            Object {
+              "height": 28,
+              "marginRight": 7.5,
+              "width": 27,
+            },
+          ]
+        }
+      />
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#000000"
+        ellipsizeMode="tail"
+        fontFamily="MEDIUM"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Calibre-Medium",
+              "fontSize": 21,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "paddingTop": 8,
+            },
+          ]
+        }
+      >
+        x0
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Component PrizeCard renders regular card correctly when ticketQuantity > 0 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 12,
+      "flexDirection": "column",
+      "marginHorizontal": 7.5,
+      "marginTop": 18,
+      "opacity": 1,
+      "overflow": "hidden",
+      "shadowColor": "rgba(53, 53, 53, 0.3)",
+      "shadowOffset": Object {
+        "height": 4,
+        "width": 4,
+      },
+      "shadowOpacity": 1,
+      "shadowRadius": 2,
+      "width": 339,
+    }
+  }
+  testID="prize-card-button"
+>
+  <Image
+    resizeMode="cover"
+    source={
+      Object {
+        "uri": "",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "height": 339,
+          "overflow": "hidden",
+          "width": 339,
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "center",
+          "paddingHorizontal": 30,
+          "paddingVertical": 20,
+        },
+      ]
+    }
+  >
+    <Text
+      alignCenter={true}
+      allowFontScaling={true}
+      color="#000000"
+      ellipsizeMode="tail"
+      fontFamily="MEDIUM"
+      isUnderlined={false}
+      isUppercase={false}
+      maxFontSizeMultiplier={1.3}
+      size="XXSMALL"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "Calibre-Medium",
+            "fontSize": 21,
+            "justifyContent": "center",
+            "textAlign": "center",
+            "textDecorationColor": "#000000",
+            "textDecorationLine": "none",
+            "textDecorationStyle": "solid",
+            "textTransform": "none",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#F9F9F9",
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "center",
+          "paddingHorizontal": 30,
+          "paddingVertical": 20,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexBasis": 0,
+            "flexDirection": "row",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "justifyContent": "center",
+          },
+        ]
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Array [
+            Object {
+              "height": 28,
+              "marginRight": 7.5,
+              "width": 27,
+            },
+          ]
+        }
+      />
+      <Text
+        alignCenter={false}
+        allowFontScaling={true}
+        color="#000000"
+        ellipsizeMode="tail"
+        fontFamily="MEDIUM"
+        isUnderlined={false}
+        isUppercase={false}
+        maxFontSizeMultiplier={1.3}
+        size="XXSMALL"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Calibre-Medium",
+              "fontSize": 21,
+              "justifyContent": "center",
+              "textAlign": "left",
+              "textDecorationColor": "#000000",
+              "textDecorationLine": "none",
+              "textDecorationStyle": "solid",
+              "textTransform": "none",
+            },
+            Object {
+              "paddingTop": 8,
+            },
+          ]
+        }
+      >
+        x10
+      </Text>
+    </View>
+  </View>
+</View>
+`;

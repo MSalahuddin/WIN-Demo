@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component LoadingSpinner renders correctly 1`] = `null`;
+
+exports[`Component LoadingSpinner renders correctly when isLoading 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "height": "100%",
+        "justifyContent": "center",
+        "width": "100%",
+      },
+    ]
+  }
+>
+  <ActivityIndicator
+    animating={true}
+    color="#FFFFFF"
+    hidesWhenStopped={true}
+    size="large"
+  />
+</View>
+`;

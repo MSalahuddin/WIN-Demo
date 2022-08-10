@@ -1,0 +1,136 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.playtertainment.ww">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- For scheduling network operations effectively -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <permission
+           android:name="${applicationId}.permission.C2D_MESSAGE"
+           android:protectionLevel="signature" />
+    <uses-permission android:name="${applicationId}.permission.C2D_MESSAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <application
+      android:name=".MainApplication"
+      android:label="@string/app_name"
+      android:icon="@mipmap/ic_launcher"
+      android:allowBackup="false"
+      android:theme="@style/SplashTheme"
+      android:usesCleartextTraffic="true"
+      >
+      <activity
+        android:name=".MainActivity"
+        android:label="@string/app_name"
+        android:launchMode="singleTask"
+        android:screenOrientation="portrait"
+        android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+        android:windowSoftInputMode="adjustResize">
+        
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        <intent-filter>
+          <action android:name="android.intent.action.VIEW" />
+           <category android:name="android.intent.category.DEFAULT" />
+           <category android:name="android.intent.category.BROWSABLE" />
+           <data
+           
+              android:pathPrefix="/android/${applicationId}/callback"
+           />
+        </intent-filter>
+           <intent-filter>
+                <data android:scheme="branchandroid" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+         <intent-filter android:autoVerify="true">
+                <data android:scheme="Win_demoapp://" />
+                  <data android:scheme="Win_demoapp://"
+                    android:host="Win_demo-alternate.onelink.me"
+                    android:pathPrefix="/gTzz" />
+                <data android:scheme="Win_demoapp://"
+                    android:host="Win_demo.onelink.me"
+                    android:pathPrefix="/Y7st" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+          </intent-filter>
+
+
+          <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="https" android:host="Win_demo.app.link" />
+                <data android:scheme="https" android:host="Win_demo-alternate.app.link" />
+                <data android:scheme="https"
+                    android:host="Win_demo-alternate.onelink.me"
+                    android:pathPrefix="/gTzz" />
+                <data android:scheme="https"
+                    android:host="Win_demo.onelink.me"
+                    android:pathPrefix="/Y7st" />
+          </intent-filter>
+      </activity>
+      <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+
+       <meta-data android:name="io.branch.sdk.BranchKey" android:value="${BRANCH_KEY_LIVE}"/>
+        <meta-data android:name="io.branch.sdk.BranchKey.test" android:value="${BRANCH_KEY_TEST}"/>
+
+     
+        <service android:name="com.blueshift.fcm.BlueshiftMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <receiver
+            android:name="com.blueshift.receiver.AppInstallReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+        <activity
+            android:name="com.ironsource.sdk.controller.ControllerActivity"
+            android:configChanges="orientation|screenSize"
+            android:hardwareAccelerated="true" />
+        <activity
+            android:name="com.ironsource.sdk.controller.InterstitialActivity"
+            android:configChanges="orientation|screenSize"
+            android:hardwareAccelerated="true"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.ironsource.sdk.controller.OpenUrlActivity"
+            android:configChanges="orientation|screenSize"
+            android:hardwareAccelerated="true"
+            android:theme="@android:style/Theme.Translucent" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/ADMOB_APP_ID"/>
+       
+        <meta-data android:name="com.facebook.sdk.ApplicationId" 
+            android:value="@string/FACEBOOK_APP_ID"/>
+        
+        <meta-data android:name="com.facebook.sdk.ClientToken" 
+            android:value="@string/FACEBOOK_CLIENT_TOKEN"/>
+            
+        <provider android:authorities="@string/FACEBOOK_APP_ID_URL_SCHEME"
+          android:name="com.facebook.FacebookContentProvider"
+          android:exported="true" />    
+
+    </application>
+
+</manifest>
